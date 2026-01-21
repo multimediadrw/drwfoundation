@@ -1,0 +1,111 @@
+import Link from 'next/link'
+import { getPostsData } from '@/lib/posts'
+import Header from '@/components/Header'
+import Footer from '@/components/Footer'
+import type { Metadata } from 'next'
+
+// Enable ISR - Revalidate every 10 minutes
+export const revalidate = 600
+
+export const metadata: Metadata = {
+  title: 'DRW Foundation - Yayasan Sosial dan Kemanusiaan',
+  description: 'DRW Foundation adalah yayasan yang fokus pada pendidikan, kesehatan, dan pemberdayaan masyarakat. Berbagi kebaikan untuk Indonesia lebih baik.',
+  openGraph: {
+    title: 'DRW Foundation',
+    description: 'Yayasan Sosial dan Kemanusiaan',
+    url: 'https://drwfoundation.com',
+    siteName: 'DRW Foundation',
+    locale: 'id_ID',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'DRW Foundation',
+    description: 'Yayasan Sosial dan Kemanusiaan',
+  },
+}
+
+export default async function Home() {
+  const posts = await getPostsData()
+  
+  return (
+    <>
+      <Header />
+      <main className="min-h-screen bg-gray-50">
+        {/* Hero Section */}
+        <section className="bg-gradient-to-r from-blue-600 to-blue-800 text-white py-20">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+            <h1 className="text-4xl md:text-6xl font-bold mb-6">
+              DRW Foundation
+            </h1>
+            <p className="text-xl md:text-2xl mb-8 text-blue-100">
+              Berbagi Kebaikan untuk Indonesia Lebih Baik
+            </p>
+            <div className="flex flex-wrap justify-center gap-4">
+              <Link
+                href="/program"
+                className="px-8 py-3 bg-white text-blue-600 font-semibold rounded-lg hover:bg-blue-50 transition-colors"
+              >
+                Lihat Program
+              </Link>
+              <Link
+                href="/berita"
+                className="px-8 py-3 bg-blue-700 text-white font-semibold rounded-lg hover:bg-blue-800 transition-colors"
+              >
+                Berita Terbaru
+              </Link>
+            </div>
+          </div>
+        </section>
+
+        {/* Latest Articles */}
+        <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+          <div className="flex justify-between items-center mb-8">
+            <h2 className="text-3xl font-bold text-gray-900">Kegiatan Terbaru</h2>
+            <Link href="/berita" className="text-blue-600 font-medium hover:text-blue-700">
+              Lihat Semua →
+            </Link>
+          </div>
+          
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {posts.slice(0, 6).map((post) => (
+              <Link
+                key={post.slug}
+                href={`/posts/${post.slug}`}
+                className="bg-white rounded-xl shadow-md hover:shadow-xl transition-all duration-300 overflow-hidden group"
+              >
+                <div className="p-6">
+                  <time className="text-sm text-blue-600 font-medium">
+                    {new Date(post.date).toLocaleDateString('id-ID', {
+                      year: 'numeric',
+                      month: 'long',
+                      day: 'numeric'
+                    })}
+                  </time>
+                  
+                  <h3 className="text-lg font-bold text-gray-900 mt-3 mb-3 group-hover:text-blue-600 transition-colors line-clamp-2">
+                    {post.title}
+                  </h3>
+                  
+                  {post.excerpt && (
+                    <p className="text-gray-600 text-sm line-clamp-3">
+                      {post.excerpt.replace(/<[^>]*>/g, '')}
+                    </p>
+                  )}
+                  
+                  <div className="mt-4 text-blue-600 font-medium text-sm flex items-center">
+                    <span>Baca selengkapnya</span>
+                    <svg className="w-4 h-4 ml-2 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                    </svg>
+                  </div>
+                </div>
+              </Link>
+            ))}
+          </div>
+        </section>
+      </main>
+      <Footer />
+    </>
+  )
+}
