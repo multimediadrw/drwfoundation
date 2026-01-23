@@ -9,7 +9,7 @@ export interface AdminUser {
 // Default admin credentials (change these!)
 const ADMIN_CREDENTIALS: AdminUser = {
   username: 'drwcorp',
-  password: 'drwcorp123',
+  password: 'drwcorp688',
 }
 
 export function validateAdmin(username: string, password: string): boolean {
