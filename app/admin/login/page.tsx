@@ -89,12 +89,7 @@ export default function AdminLoginPage() {
             </button>
           </form>
 
-          <div className="mt-6 text-center text-sm text-gray-600">
-            <p>Default credentials:</p>
-            <p className="font-mono bg-gray-100 px-3 py-2 rounded mt-2">
-              drwcorp / drwcorp123
-            </p>
-          </div>
+
         </div>
 
         {/* Back to Home */}
