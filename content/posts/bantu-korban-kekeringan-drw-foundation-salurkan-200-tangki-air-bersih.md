@@ -12,7 +12,7 @@ Akhir-akhir ini, Provinsi D.I Yogyakarta dan Kabupaten Purworejo dilanda cuaca p
 
 Biasanya, saat sumber air mulai mengering, warga sekitar mengajukan dan meminta bantuan air bersih ke Pondok Pesantren Yatim dan Dhuafa Darush Sholihin. Namun, karena banyaknya permintaan tersebut, stok air tentu saja semakin menipis sehingga membutuhkan pasokan air yang baru untuk mengatasi kekeringan ini.
 
-![Bantu Korban Kekeringan, DRW Foundation Salurkan 200 Tangki Air Bersih](images/2023/11/MRY04308-1.jpg)Bantu Korban Kekeringan, DRW Foundation Salurkan 200 Tangki Air Bersih
+![Bantu Korban Kekeringan, DRW Foundation Salurkan 200 Tangki Air Bersih](images/2024/12/donasi_ungu.jpg)Bantu Korban Kekeringan, DRW Foundation Salurkan 200 Tangki Air Bersih
 
 Oleh karena itu, saat melihat fenomena serta kondisi seperti ini, DRW Foundation berinisiatif untuk membantu korban kekeringan yang ada di Gunungkidul, Yogyakarta dan Purworejo. Inisiatif tersebut dibayarkan dengan menyalurkan 200 tangki air bersih ke rumah-rumah yang terdampak kekeringan ekstrem.
 

@@ -20,6 +20,6 @@ Selain itu, Bapak Sri Mulyono juga berharap bahwa apa yang dilakukan oleh dr Wah
 
 Penyerahan wakaf 200 sak semen tersebut berlangsung dengan lancar. dr Wahyu Triasmara dan Bapak Sri Mulyono berbincang-bincang sejenak dan menyampaikan harapan mereka terhadap pembangunan Masjid Hidayatullah yang sedang berlangsung. Tidak lupa juga memberikan sedikit uang saku untuk para tukang yang sedang melakukan pembangunan masjid.
 
-![dr Wahyu Triasmara Wakafkan 200 Sak Semen](images/2023/03/2-1024x1024.jpg)
+![dr Wahyu Triasmara Wakafkan 200 Sak Semen](images/2024/12/donasi_ungu.jpg)
 
 Video selengkapnya disini:

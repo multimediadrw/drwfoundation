@@ -12,7 +12,7 @@ Acara Bahagia Ride diawali dengan persiapan mobil klasik yang digunakan, di anta
 
 Selain mobil klasik, dr Wahyu Triasmara juga menyediakan 2 mobil mewah untuk acara tersebut. Dalam kesempatan ini, mobil Alpard digunakan untuk mengantar santri yatim dhuafa dalam perjalanan Bahagia Ride.
 
-![Bahagiakan Santri Yatim Dhuafa Penghafal Quran, DRW Skincare adakah Bahagia Ride Keliling Jogja Naik Mobil Klasik dan Mewah](images/2023/03/4-1.jpg)Bahagiakan Santri Yatim Dhuafa Penghafal Quran, DRW Skincare adakah Bahagia Ride Keliling Jogja Naik Mobil Klasik dan Mewah
+![Bahagiakan Santri Yatim Dhuafa Penghafal Quran, DRW Skincare adakah Bahagia Ride Keliling Jogja Naik Mobil Klasik dan Mewah](images/2024/12/donasi_ungu.jpg)Bahagiakan Santri Yatim Dhuafa Penghafal Quran, DRW Skincare adakah Bahagia Ride Keliling Jogja Naik Mobil Klasik dan Mewah
 
 Menurut dr Wahyu Triasmara, tujuan dari acara Bahagia Ride ini adalah untuk memberikan kebahagiaan dan pengalaman yang berbeda bagi santri yatim dhuafa. Selain itu, acara ini juga bertujuan untuk memperkenalkan keindahan kota Jogja melalui perjalanan yang menyenangkan.
 

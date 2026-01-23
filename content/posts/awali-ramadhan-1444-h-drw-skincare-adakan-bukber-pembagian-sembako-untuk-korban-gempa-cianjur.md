@@ -10,11 +10,11 @@ DRW Foundation &#8211; Mengawali bulan suci Ramadhan 1444 H, DRW Skincare mengge
 
 Acara buka puasa bersama dan bagi sembako dilaksanakan di Masjid Jami&#8217; Al-Hikmah yang kondisinya cukup memprihatinkan. Plafon jebol, tembok retak-retak, atap bocor, dan pintu jendela rusak.
 
-![Pembagian Sembako di Masjid Jami' Al-Hikmah, Cianjur](images/2023/03/Artboard-4.png)Pembagian Sembako di Masjid Jami&#8217; Al-Hikmah, Cianjur
+![Pembagian Sembako di Masjid Jami' Al-Hikmah, Cianjur](images/2024/12/donasi_ungu.jpg)Pembagian Sembako di Masjid Jami&#8217; Al-Hikmah, Cianjur
 
 Acara Buka Puasa Bersama dan Bagi Sembako dihadiri oleh warga Kampung Sukamulya. H. Asep Sudrajat selaku pembina dan perwakilan penerima bantuan mengucapkan terimakasih dan memberikan apresiasi yang sebesar-besarnya kepada DRW Skincare. Pak Haji juga menyampaikan *tausyiah* sebelum pembagian sembako.
 
-![Pembagian Sembako di Masjid Jami' Al-Hikmah, Cianjur](images/2023/03/Artboard-3-1.png)Pembagian Sembako di Masjid Jami&#8217; Al-Hikmah, Cianjur
+![Pembagian Sembako di Masjid Jami' Al-Hikmah, Cianjur](images/2024/12/donasi_ungu_1.jpg)Pembagian Sembako di Masjid Jami&#8217; Al-Hikmah, Cianjur
 
 DRW Skincare dalam pendistribusiannya berkolaborasi dengan Cinta Masjid Official, lembaga sosial dari masjid untuk masjid. Melalui kolaborasi ini diharapkan kegiatan CSR DRW Skincare dapat menjangkau lebih banyak penerima manfaat.
 

@@ -10,11 +10,11 @@ Yogyakarta-1 Maret 2023, DRW Skincare yang dimiliki oleh Dr. Wahyu Triasmara men
 
 Acara khataman dimulai dengan pembacaan ayat-ayat suci Al-Quran oleh para santri yang diikuti oleh seluruh peserta. Setelah selesai membaca Al-Quran, dilanjutkan dengan doa bersama untuk kebaikan dan kesejahteraan semua orang.
 
-![DRW Foundation adakan Khataman dan Makan Menu Sate Bakoh bersama Santri Yatim Dhuafa Penghafal Quran](images/2023/03/2-1-1.jpg)DRW Foundation adakan Khataman dan Makan Menu Sate Bakoh bersama Santri Yatim Dhuafa Penghafal Quran
+![DRW Foundation adakan Khataman dan Makan Menu Sate Bakoh bersama Santri Yatim Dhuafa Penghafal Quran](images/2024/12/donasi_ungu.jpg)DRW Foundation adakan Khataman dan Makan Menu Sate Bakoh bersama Santri Yatim Dhuafa Penghafal Quran
 
 Tidak hanya itu, kegiatan ini juga diisi dengan potong kambing dan makan Menu Sate Bakoh. Kambing yang dipotong kemudian diolah menjadi sate yang lezat dan disajikan kepada seluruh peserta.
 
-![DRW Foundation adakan Khataman dan Makan Menu Sate Bakoh bersama Santri Yatim Dhuafa Penghafal Quran](images/2023/03/6-1.jpg)DRW Foundation adakan Khataman dan Makan Menu Sate Bakoh bersama Santri Yatim Dhuafa Penghafal Quran
+![DRW Foundation adakan Khataman dan Makan Menu Sate Bakoh bersama Santri Yatim Dhuafa Penghafal Quran](images/2024/12/donasi_ungu_1.jpg)DRW Foundation adakan Khataman dan Makan Menu Sate Bakoh bersama Santri Yatim Dhuafa Penghafal Quran
 
 Dr. Wahyu Triasmara, owner DRW Skincare, menyampaikan bahwa kegiatan khataman bersama ini merupakan salah satu wujud kepedulian DRW Skincare. Ia berharap kegiatan ini dapat menjadi momentum untuk terus mempererat hubungan baik serta menjadi wasilah kebaikan untuk perusahaan apalagi dengan fadhillah santri penghafal quran.
 
