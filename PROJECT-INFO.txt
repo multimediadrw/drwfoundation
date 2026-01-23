@@ -1,0 +1,124 @@
+================================================================================
+DRW FOUNDATION WEBSITE - PROJECT INFORMATION
+================================================================================
+
+Project Name: DRW Foundation Website
+Version: 1.0.0
+Created: January 2026
+Developer: Manus AI Assistant
+
+================================================================================
+LIVE URLS
+================================================================================
+
+Production: https://drwfoundation.vercel.app
+Admin Panel: https://drwfoundation.vercel.app/admin/login
+GitHub Repo: https://github.com/multimediadrw/drwfoundation
+
+================================================================================
+TECH STACK
+================================================================================
+
+Framework: Next.js 16.1.4 (App Router)
+Language: TypeScript
+Styling: Tailwind CSS
+Deployment: Vercel
+Storage: GitHub API
+Admin Auth: Simple password-based
+
+================================================================================
+DEFAULT CREDENTIALS
+================================================================================
+
+Admin Username: admin
+Admin Password: drwfoundation2024
+
+⚠️  IMPORTANT: Change password in production!
+
+================================================================================
+REQUIRED ENVIRONMENT VARIABLES
+================================================================================
+
+GITHUB_TOKEN=your_github_personal_access_token
+GITHUB_OWNER=multimediadrw
+GITHUB_REPO=drwfoundation
+GITHUB_BRANCH=main
+ADMIN_USERNAME=admin
+ADMIN_PASSWORD=drwfoundation2024
+
+================================================================================
+QUICK START
+================================================================================
+
+1. Extract ZIP file
+2. cd drwfoundation
+3. npm install
+4. Create .env.local (copy from .env.example)
+5. npm run dev
+6. Open http://localhost:3000
+
+================================================================================
+DEPLOYMENT
+================================================================================
+
+1. Push code to GitHub
+2. Import project to Vercel
+3. Set environment variables in Vercel
+4. Deploy
+
+See DEPLOYMENT-GUIDE.md for detailed instructions.
+
+================================================================================
+DOCUMENTATION FILES
+================================================================================
+
+README.md                    - Main documentation
+DEPLOYMENT-GUIDE.md          - Step-by-step deployment guide
+ENV-VARIABLES.md             - Environment variables documentation
+SETUP-CUSTOM-DOMAIN-GUIDE.md - Custom domain setup guide
+DELETE-ARTICLE-FIX.md        - Technical notes
+BUG-FIX-REPORT.md            - Bug fix history
+
+================================================================================
+PROJECT STRUCTURE
+================================================================================
+
+app/                  - Next.js App Router pages
+components/           - React components
+lib/                  - Utility functions
+content/              - Markdown content (posts, pages, programs)
+public/               - Static assets (images, uploads)
+data/                 - JSON data files
+
+================================================================================
+FEATURES
+================================================================================
+
+✓ Homepage with hero carousel
+✓ About page
+✓ Programs page
+✓ News/Blog page with articles
+✓ Reports page
+✓ Admin panel for content management
+✓ Rich text editor (TipTap)
+✓ Image upload
+✓ GitHub integration for storage
+✓ Responsive design
+✓ SEO optimized
+
+================================================================================
+SUPPORT
+================================================================================
+
+For questions or issues:
+1. Check documentation files
+2. Check troubleshooting sections
+3. Contact developer
+
+================================================================================
+LICENSE
+================================================================================
+
+Copyright © 2026 DRW Foundation. All rights reserved.
+
+================================================================================

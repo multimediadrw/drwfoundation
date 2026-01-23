@@ -1,0 +1,66 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "program": "Programs",
+    "news": "News",
+    "report": "Report",
+    "donate": "Donate"
+  },
+  "home": {
+    "hero": {
+      "title": "Synergy & Collaboration for the Ummah",
+      "subtitle": "DRW Foundation",
+      "description": "Present to manage CSR funds from various DRW Corp business lines, synergizing and collaborating with social institutions as implementers focused on the welfare of the ummah.",
+      "cta": {
+        "program": "View Programs",
+        "donate": "Donate Now"
+      }
+    },
+    "why": {
+      "title": "Why",
+      "titleHighlight": "DRW Foundation?",
+      "subtitle": "Our commitment to making a real impact for the Indonesian people",
+      "trusted": {
+        "title": "Trusted",
+        "description": "Professionally managed with full transparency and regular audits to ensure every donation is distributed properly."
+      },
+      "impactful": {
+        "title": "Wide Impact",
+        "description": "Has distributed aid to 100+ cities/regencies with 120,000+ beneficiaries across Indonesia."
+      },
+      "responsive": {
+        "title": "Quick Response",
+        "description": "Quick response to disasters and urgent community needs with an efficient distribution system."
+      }
+    },
+    "programs": {
+      "title": "Featured",
+      "titleHighlight": "Programs",
+      "subtitle": "Sustainable programs for community welfare",
+      "viewAll": "View All Programs"
+    },
+    "news": {
+      "title": "News &",
+      "titleHighlight": "Activities",
+      "subtitle": "Latest updates on DRW Foundation activities and programs",
+      "readMore": "Read More",
+      "viewAll": "View All News"
+    },
+    "testimonials": {
+      "title": "What They Say About",
+      "titleHighlight": "DRW Foundation"
+    }
+  },
+  "footer": {
+    "description": "A social and humanitarian foundation focused on education, health, and empowerment of Indonesian society.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "address": "Address",
+    "addressValue": "Yogyakarta, Indonesia",
+    "email": "Email",
+    "phone": "Phone",
+    "followUs": "Follow Us",
+    "copyright": "© 2024 DRW Foundation. All Rights Reserved."
+  }
+}

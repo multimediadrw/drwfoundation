@@ -1,0 +1,69 @@
+{
+  "hero": {
+    "title": "Tentang Kami",
+    "subtitle": "Yayasan sosial dan kemanusiaan yang fokus pada pendidikan, kesehatan, dan pemberdayaan masyarakat Indonesia"
+  },
+  "pendiri": {
+    "nama": "dr. Wahyu Triasmara",
+    "jabatan": "Founder & CEO",
+    "foto": "/uploads/1769050146168-Screenshot_2025-09-24_080959.png",
+    "deskripsi": [
+      "Memulai bisnis DRW Skincare dari minus, dr Wahyu Triasmara bertekad untuk membuat bisnis yang bisa sebanyak-banyaknya memberikan manfaat khususnya dalam pembukaan lapangan pekerjaan.",
+      "DRW Foundation yang didirikan dr Wahyu Triasmara hadir sebagai pengelola dana CSR unit-unit bisnis DRW Corp di berbagai bidang diantaranya skincare, manufaktur, travel, transportasi, hospitality, kesehatan dan food beverage."
+    ],
+    "quote": "Saya lewat DRW Foundation sebagai bentuk bahwa perusahaan tidak hanya untuk mengambil keuntungan, tapi hadir sebagai pelayan masyarakat dan mereka yang membutuhkan"
+  },
+  "visi": "Menjadi lembaga sosial terpercaya yang berkontribusi nyata dalam meningkatkan kesejahteraan dan kualitas hidup masyarakat Indonesia melalui program-program berkelanjutan di bidang pendidikan, kesehatan, dan pemberdayaan ekonomi.",
+  "misi": [
+    "Memberikan akses pendidikan berkualitas, khususnya pendidikan Al-Quran dan tahfidz",
+    "Menyediakan layanan kesehatan dan bantuan medis bagi masyarakat",
+    "Membantu pemberdayaan ekonomi masyarakat",
+    "Membangun dan merenovasi fasilitas umum",
+    "Memberikan bantuan cepat kepada korban bencana"
+  ],
+  "sejarah": "Sebelumnya dikenal dengan nama drwskincarepeduli, kemudian berubah nama menjadi DRW Foundation seiring bertambahnya sumber dana dari berbagai lini bisnis DRW Corp. DRW Foundation mengelola dana CSR unit-unit bisnis DRW Corp tersebut dan dalam pengelolaannya bersinergi dan berkolaborasi dengan banyak lembaga sosial sebagai pelaksana.",
+  "unitBisnis": [
+    {
+      "kategori": "Skincare",
+      "deskripsi": "DRW Skincare, DRW For Man, DRW Kids"
+    },
+    {
+      "kategori": "Klinik Kecantikan",
+      "deskripsi": "Klinik DRW Skincare"
+    },
+    {
+      "kategori": "Manufacture",
+      "deskripsi": "DRW Kosmetika"
+    },
+    {
+      "kategori": "Travel & Transportasi",
+      "deskripsi": "DRW Trans, Dzawani Tour, Dzawani Umroh"
+    },
+    {
+      "kategori": "Hospitality",
+      "deskripsi": "Dzawani Kost, Dzawani Villa, Dzawani Hotel"
+    },
+    {
+      "kategori": "Food & Beverage",
+      "deskripsi": "Kampung Pesona, Narendang, Bandha Rasa"
+    }
+  ],
+  "pencapaian": [
+    {
+      "angka": "2",
+      "label": "Rumah Quran"
+    },
+    {
+      "angka": "500+",
+      "label": "Santri Tahfidz"
+    },
+    {
+      "angka": "150+",
+      "label": "Masjid Dibangun"
+    },
+    {
+      "angka": "100K+",
+      "label": "Penerima Manfaat"
+    }
+  ]
+}

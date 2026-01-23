@@ -1,0 +1,66 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "about": "Tentang",
+    "program": "Program",
+    "news": "Berita",
+    "report": "Laporan",
+    "donate": "Donasi"
+  },
+  "home": {
+    "hero": {
+      "title": "Sinergi & Kolaborasi untuk Ummat",
+      "subtitle": "DRW Foundation",
+      "description": "Hadir untuk mengelola dana CSR dari berbagai lini bisnis DRW Corp, bersinergi dan berkolaborasi dengan lembaga sosial sebagai pelaksana yang berfokus pada kesejahteraan umat.",
+      "cta": {
+        "program": "Lihat Program",
+        "donate": "Donasi Sekarang"
+      }
+    },
+    "why": {
+      "title": "Kenapa",
+      "titleHighlight": "DRW Foundation?",
+      "subtitle": "Komitmen kami untuk memberikan dampak nyata bagi masyarakat Indonesia",
+      "trusted": {
+        "title": "Terpercaya",
+        "description": "Dikelola secara profesional dengan transparansi penuh dan audit berkala untuk memastikan setiap donasi tersalurkan dengan baik."
+      },
+      "impactful": {
+        "title": "Berdampak Luas",
+        "description": "Telah menyalurkan bantuan ke 100+ kota/kabupaten dengan 120.000+ penerima manfaat di seluruh Indonesia."
+      },
+      "responsive": {
+        "title": "Cepat Tanggap",
+        "description": "Respon cepat terhadap bencana dan kebutuhan mendesak masyarakat dengan sistem distribusi yang efisien."
+      }
+    },
+    "programs": {
+      "title": "Program",
+      "titleHighlight": "Unggulan",
+      "subtitle": "Program-program berkelanjutan untuk kesejahteraan masyarakat",
+      "viewAll": "Lihat Semua Program"
+    },
+    "news": {
+      "title": "Berita &",
+      "titleHighlight": "Kegiatan",
+      "subtitle": "Update terbaru tentang kegiatan dan program DRW Foundation",
+      "readMore": "Baca Selengkapnya",
+      "viewAll": "Lihat Semua Berita"
+    },
+    "testimonials": {
+      "title": "Kata Mereka Tentang",
+      "titleHighlight": "DRW Foundation"
+    }
+  },
+  "footer": {
+    "description": "Yayasan sosial dan kemanusiaan yang fokus pada pendidikan, kesehatan, dan pemberdayaan masyarakat Indonesia.",
+    "quickLinks": "Tautan Cepat",
+    "contact": "Kontak",
+    "address": "Alamat",
+    "addressValue": "Yogyakarta, Indonesia",
+    "email": "Email",
+    "phone": "Telepon",
+    "followUs": "Ikuti Kami",
+    "copyright": "© 2024 DRW Foundation. Hak Cipta Dilindungi."
+  }
+}

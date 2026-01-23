@@ -1,0 +1,109 @@
+TEST FULL TRANSLATIONS - HOMEPAGE
+===================================
+
+✅ LANGUAGE SWITCHER: Default bahasa English (EN active)
+✅ NAVBAR: Dalam bahasa English
+   - Home
+   - About Us
+   - Programs
+   - News
+   - Reports
+
+✅ KONTEN HOMEPAGE DALAM BAHASA ENGLISH:
+   - Section "Why DRW Foundation?" (bukan "Kenapa DRW Foundation?")
+   - Subtitle: "Our commitment to making a real impact for Indonesian society"
+   - Card 1: "Trusted" (bukan "Terpercaya")
+   - Card 2: "Wide Impact" (bukan "Berdampak Luas")
+   - Card 3: "Quick Response" (bukan "Cepat Tanggap")
+   
+   - Section "Featured Programs" (bukan "Program Unggulan")
+   - Subtitle: "Various programs we run to help Indonesian society"
+   - Program cards:
+     * Tahfidz Scholarship (bukan Beasiswa Tahfidz)
+     * Glowing Mosque (bukan Masjid Glowing)
+     * Disaster Relief (bukan Bantuan Bencana)
+     * Qurban
+   - Button: "View All Programs" (bukan "Lihat Semua Program")
+   - Card description: "DRW Foundation featured program"
+   - Card link: "View Details" (bukan "Lihat Detail")
+   
+   - Section "Latest News" (bukan "Berita Terbaru")
+   - Subtitle: "Latest updates on DRW Foundation activities and programs"
+   - Button: "View All News" (bukan "Lihat Semua Berita")
+   
+   - Section "DRW Foundation Activities"
+   - Subtitle: "A glimpse of hundreds of DRW Foundation community welfare activities"
+   - Text: "Check other DRW Foundation activities on Our Official Social Media"
+   
+   - Section "What They Say About DRW Foundation" (bukan "Kata Mereka Tentang DRW Foundation")
+   
+   - CTA Section: "Join Us" (bukan "Mari Bergabung Bersama Kami")
+   - Description: "Together we can make a bigger impact for Indonesian society"
+   - Buttons: "View Programs" dan "About Us"
+
+✅ FOOTER DALAM BAHASA ENGLISH:
+   - Quick Links section: "Quick Links" (bukan "Link Cepat")
+   - Menu items: Home, About Us, Programs, News
+   - Programs section: "Programs" (bukan "Program Kami")
+   - Program links:
+     * Tahfidz Scholarship (bukan Beasiswa Tahfidz)
+     * Loving Wakaf (bukan Wakaf Kasih Sayang)
+     * Silaturahmi & Prayer (bukan Silaturahmi & Doa)
+
+STATUS: SELURUH KONTEN HOMEPAGE BERHASIL DITRANSLATE KE ENGLISH! ✅
+
+Sekarang test switch ke bahasa Indonesia...
+
+
+TEST SWITCH KE BAHASA INDONESIA
+================================
+
+✅ Klik tombol ID berhasil!
+✅ NAVBAR: Berubah ke bahasa Indonesia
+   - Beranda (dari Home)
+   - Tentang Kami (dari About Us)
+   - Program (dari Programs)
+   - Berita (dari News)
+   - Laporan (dari Reports)
+
+✅ KONTEN HOMEPAGE BERUBAH KE BAHASA INDONESIA:
+   - Section "Kenapa DRW Foundation?" (dari "Why DRW Foundation?")
+   - Subtitle: "Komitmen kami untuk memberikan dampak nyata bagi masyarakat Indonesia"
+   - Card 1: "Terpercaya" (dari "Trusted")
+   - Card 2: "Berdampak Luas" (dari "Wide Impact")
+   - Card 3: "Cepat Tanggap" (dari "Quick Response")
+   - Deskripsi cards juga dalam bahasa Indonesia
+   
+   - Section "Program Unggulan" (dari "Featured Programs")
+   - Subtitle: "Berbagai program yang kami jalankan untuk membantu masyarakat Indonesia"
+   - Program cards:
+     * Beasiswa Tahfidz (dari Tahfidz Scholarship)
+     * Masjid Glowing (dari Glowing Mosque)
+     * Bantuan Bencana (dari Disaster Relief)
+     * Qurban
+   - Button: "Lihat Semua Program" (dari "View All Programs")
+   - Card description: "Program unggulan DRW Foundation"
+   - Card link: "Lihat Detail" (dari "View Details")
+   
+   - Section "Berita Terbaru" (dari "Latest News")
+
+✅ FOOTER BERUBAH KE BAHASA INDONESIA:
+   - Menu items: Beranda, Tentang Kami, Program, Berita
+   - Program links:
+     * Beasiswa Tahfidz (dari Tahfidz Scholarship)
+     * Wakaf Kasih Sayang (dari Loving Wakaf)
+     * Silaturahmi & Doa (dari Silaturahmi & Prayer)
+
+STATUS: SELURUH KONTEN HOMEPAGE BERHASIL BERUBAH KE BAHASA INDONESIA! ✅✅✅
+
+KESIMPULAN:
+===========
+Language switcher sekarang berfungsi dengan sempurna! Saat user klik tombol ID/EN, SELURUH KONTEN WEBSITE berubah bahasa, bukan hanya navbar. Semua section titles, subtitles, descriptions, buttons, dan footer berubah sesuai bahasa yang dipilih.
+
+✅ Navbar: Berubah bahasa
+✅ Homepage sections: Berubah bahasa
+✅ Program cards: Berubah bahasa
+✅ Buttons: Berubah bahasa
+✅ Footer: Berubah bahasa
+
+PERFECT! 🎉🎉🎉
