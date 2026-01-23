@@ -120,8 +120,11 @@ ${contentMarkdownEn || contentMarkdown}
 
       if (data.success) {
         setSuccess('✅ Artikel berhasil disimpan!')
+        // Force router refresh to clear cache
+        router.refresh()
         setTimeout(() => {
           router.push('/admin/posts')
+          router.refresh()
         }, 1500)
       } else {
         setError(data.error || 'Gagal menyimpan artikel')

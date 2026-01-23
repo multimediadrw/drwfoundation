@@ -66,8 +66,12 @@ export default function AdminPostsPage() {
 
       if (data.success) {
         alert('✅ Artikel berhasil dihapus!')
+        // Force router refresh to clear cache
+        router.refresh()
         // Reload posts
         await loadPosts()
+        // Small delay then reload again to ensure fresh data
+        setTimeout(() => loadPosts(), 2000)
       } else {
         alert(`❌ Gagal menghapus artikel: ${data.error}`)
       }

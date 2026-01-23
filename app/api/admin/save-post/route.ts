@@ -17,11 +17,14 @@ export async function POST(request: NextRequest) {
     const result = await savePostToGitHub(slug, content)
 
     if (result.success) {
-      // Revalidate paths to update cache
-      revalidatePath('/berita')
-      revalidatePath(`/posts/${slug}`)
-      revalidatePath('/admin/posts')
-      revalidatePath('/')
+      // Aggressive revalidation to clear all caches
+      revalidatePath('/berita', 'page')
+      revalidatePath(`/posts/${slug}`, 'page')
+      revalidatePath('/admin/posts', 'page')
+      revalidatePath('/', 'layout') // Clear entire layout cache
+      
+      // Wait a bit for GitHub to propagate
+      await new Promise(resolve => setTimeout(resolve, 1000))
       
       return NextResponse.json({
         success: true,

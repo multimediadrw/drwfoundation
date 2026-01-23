@@ -8,8 +8,8 @@ import TestimonialCarousel from '@/components/TestimonialCarousel';
 import ScrollReveal from '@/components/ScrollReveal';
 import type { Metadata } from 'next';
 
-// Enable ISR - Revalidate every 10 minutes
-export const revalidate = 600;
+// Enable ISR - Revalidate every 60 seconds for fresh content
+export const revalidate = 60;
 
 export const metadata: Metadata = {
   title: 'DRW Foundation - Sinergi Kolaborasi untuk Ummat',
