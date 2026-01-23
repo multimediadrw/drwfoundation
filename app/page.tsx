@@ -246,18 +246,27 @@ export default async function Home() {
 
             {/* Gallery Grid */}
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 mb-12">
-              {[1, 2, 3, 4, 5, 6, 7, 8].map((item, index) => (
-                <ScrollReveal key={item} direction="up" delay={0.1 + index * 0.05}>
+              {[
+                { src: '/images/kegiatan/bersholawat_1.png', alt: 'DRW Bersholawat 1' },
+                { src: '/images/kegiatan/bersholawat_2.png', alt: 'DRW Bersholawat 2' },
+                { src: '/images/kegiatan/bersholawat_3.png', alt: 'DRW Bersholawat Purworejo', caption: 'DRW Bersholawat Purworejo' },
+                { src: '/images/kegiatan/bersholawat_4.png', alt: 'DRW Bersholawat 4' },
+                { src: '/images/kegiatan/DSC01031-1-768x512.jpg', alt: 'Kegiatan DRW Foundation' },
+                { src: '/images/kegiatan/kebakaran_kutoarjo_1.jpg', alt: 'Bantuan Kebakaran Kutoarjo' },
+                { src: '/images/kegiatan/kebakaran_kutoarjo_2.jpg', alt: 'Bantuan Kebakaran Kutoarjo 2' },
+                { src: '/images/kegiatan/masjid_glowing_1_croped1.jpg', alt: 'Program Masjid Glowing' },
+              ].map((item, index) => (
+                <ScrollReveal key={index} direction="up" delay={0.1 + index * 0.05}>
                   <div className="relative h-64 rounded-xl overflow-hidden shadow-lg group cursor-pointer">
                     <Image
-                      src={`/images/kegiatan/bersholawat_${item <= 8 ? ((item - 1) % 8) + 1 : 1}.png`}
-                      alt={`DRW Foundation Kegiatan ${item}`}
+                      src={item.src}
+                      alt={item.alt}
                       fill
                       className="object-cover group-hover:scale-110 transition-transform duration-500"
                     />
-                    {item === 3 && (
+                    {item.caption && (
                       <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent flex items-end p-4">
-                        <span className="text-white font-semibold">DRW Bersholawat Purworejo</span>
+                        <span className="text-white font-semibold">{item.caption}</span>
                       </div>
                     )}
                   </div>
