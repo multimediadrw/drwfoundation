@@ -115,6 +115,22 @@ export default function AdminTentangPage() {
     }
   }
 
+  const handleDeleteFoto = () => {
+    if (!data) return
+    
+    if (confirm('Apakah Anda yakin ingin menghapus foto pendiri?')) {
+      setData({
+        ...data,
+        pendiri: {
+          ...data.pendiri,
+          foto: ''
+        }
+      })
+      setMessage('✅ Foto berhasil dihapus! Jangan lupa klik Simpan.')
+      setTimeout(() => setMessage(''), 3000)
+    }
+  }
+
   if (loading) {
     return (
       <div className="min-h-screen bg-gray-50 flex items-center justify-center">
@@ -223,21 +239,36 @@ export default function AdminTentangPage() {
             </div>
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-2">Foto Pendiri</label>
-              <div className="flex items-center space-x-4">
+              <div className="flex items-start space-x-4">
                 {data.pendiri.foto && (
-                  <img src={data.pendiri.foto} alt="Foto Pendiri" className="w-24 h-24 object-cover rounded-lg" />
+                  <div className="relative">
+                    <img src={data.pendiri.foto} alt="Foto Pendiri" className="w-32 h-32 object-cover rounded-lg" />
+                  </div>
                 )}
-                <label className="px-4 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700 cursor-pointer">
-                  {uploading ? 'Uploading...' : '📷 Upload Foto'}
-                  <input
-                    type="file"
-                    accept="image/*"
-                    onChange={handleUploadFoto}
-                    className="hidden"
-                    disabled={uploading}
-                  />
-                </label>
+                <div className="flex flex-col space-y-2">
+                  <label className="px-4 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700 cursor-pointer text-center">
+                    {uploading ? 'Uploading...' : '📷 Upload Foto'}
+                    <input
+                      type="file"
+                      accept="image/*"
+                      onChange={handleUploadFoto}
+                      className="hidden"
+                      disabled={uploading}
+                    />
+                  </label>
+                  {data.pendiri.foto && (
+                    <button
+                      onClick={handleDeleteFoto}
+                      className="px-4 py-2 bg-red-600 text-white rounded-lg hover:bg-red-700"
+                    >
+                      🗑️ Hapus Foto
+                    </button>
+                  )}
+                </div>
               </div>
+              {data.pendiri.foto && (
+                <p className="text-sm text-gray-500 mt-2">URL: {data.pendiri.foto}</p>
+              )}
             </div>
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-2">Deskripsi Paragraf 1</label>
