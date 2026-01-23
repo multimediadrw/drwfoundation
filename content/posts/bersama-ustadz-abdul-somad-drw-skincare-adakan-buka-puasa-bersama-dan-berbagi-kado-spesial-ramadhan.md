@@ -12,7 +12,7 @@ Selasa, 19 Maret 2024 acara Maidaturrahman atau buka puasa bersama Ustadz Abdul 
 
 DRW Skincare bersinergi dengan YTWU atau Yayasan Tabungan Wakaf Ummat dan Pondok Pesantren Nurul Azhar untuk mensukseskan acara.
 
-![Bersama Ustadz Abdul Somad, DRW Skincare Adakan Buka Puasa Bersama dan Berbagi Kado Spesial Ramadhan](images/2024/12/donasi_ungu.jpg)Bersama Ustadz Abdul Somad, DRW Skincare Adakan Buka Puasa Bersama dan Berbagi Kado Spesial Ramadhan
+Bersama Ustadz Abdul Somad, DRW Skincare Adakan Buka Puasa Bersama dan Berbagi Kado Spesial Ramadhan
 
 YTWU dan Ponpes Nurul Azhar turut mengundang keluarga besar, masyarakat sekitar, orang tua santri, donatur, komunitas, dan lain sebagainya untuk menghadiri acara Maidaturrahman ini.
 
@@ -22,7 +22,7 @@ Acara dimulai pukul 18.00 WIB dan diawali dengan khataman Al-Quran. Kemudian, ac
 
 Selanjutnya, acara Maidaturrahman ini diakhiri dengan penyerahan bantuan untuk anak yatim dan dhuafa. Tak lupa, kado spesial Ramadhan juga turut disalurkan kepada masyarakat yang hadir.
 
-![Bersama Ustadz Abdul Somad, DRW Skincare Adakan Buka Puasa Bersama dan Berbagi Kado Spesial Ramadhan](images/2024/12/donasi_ungu_1.jpg)Bersama Ustadz Abdul Somad, DRW Skincare Adakan Buka Puasa Bersama dan Berbagi Kado Spesial Ramadhan
+Bersama Ustadz Abdul Somad, DRW Skincare Adakan Buka Puasa Bersama dan Berbagi Kado Spesial Ramadhan
 
 DRW Skincare yang bersinergi dengan DRW Foundation memberikan *support* sebesar Rp100 juta untuk acara Maidaturrahman ini. Dukungan tersebut disalurkan menjadi paket kado spesial Ramadhan DRW Skincare.
 

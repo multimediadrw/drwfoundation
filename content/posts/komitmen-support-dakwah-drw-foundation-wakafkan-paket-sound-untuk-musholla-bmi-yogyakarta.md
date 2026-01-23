@@ -12,6 +12,6 @@ Koordinator BMI Yogyakarta, Ustadz Ahmad Suluki menyambut baik kepedulian yang d
 
 &#8220;Kami sangat mengapresiasi kepedulian yang ditunjukkan oleh dr. Wahyu Triasmara dengan melakukan wakaf paket pengeras suara untuk Musholla BMI Yogyakarta. Semoga Allah SWT membalas kebaikan beliau,&#8221; ujar Ustadz Ahmad Suluki.
 
-![Komitmen Support Dakwah, DRW Foundation Wakafkan Paket Sound untuk Musholla BMI Yogyakarta](images/2024/12/donasi_ungu.jpg)Komitmen Support Dakwah, DRW Foundation Wakafkan Paket Sound untuk Musholla BMI Yogyakarta
+Komitmen Support Dakwah, DRW Foundation Wakafkan Paket Sound untuk Musholla BMI Yogyakarta
 
 Diharapkan dengan adanya wakaf ini, Musholla BMI Yogyakarta dapat lebih efektif dalam menyampaikan pesan dakwah kepada masyarakat. Semoga kegiatan wakaf semacam ini dapat menjadi contoh bagi masyarakat untuk turut berkontribusi dalam meningkatkan kesejahteraan umat.

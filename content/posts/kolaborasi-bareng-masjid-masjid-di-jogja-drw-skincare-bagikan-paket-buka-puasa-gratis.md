@@ -14,7 +14,7 @@ DRW Skincare terjun ke beberapa kegiatan yang diselenggarakan masjid-masjid di J
 
 Kemudian, ribuan paket buka puasa ini juga disalurkan ke Masjid Nurul Ashri, Masjid Jogokariyan, masjid di sekitar Maguwoharjo, Kulon Progo, Gunung Kidul, dan lain sebagainya. Kurang lebih ada 10.000 paket buka puasa gratis yang dibagikan.
 
-![Kolaborasi Bareng Masjid-Masjid di Jogja, DRW Skincare Bagikan Paket Buka Puasa Gratis](images/2024/04/10-1.jpg)Kolaborasi Bareng Masjid-Masjid di Jogja, DRW Skincare Bagikan Paket Buka Puasa Gratis
+Kolaborasi Bareng Masjid-Masjid di Jogja, DRW Skincare Bagikan Paket Buka Puasa Gratis
 
 DRW Skincare mendukung kegiatan Ramadhan yang diadakan masjid-masjid tersebut dengan menyalurkan paket buka puasa gratis. Tim DRW Skincare berkoordinasi dengan penanggung jawab masjid dalam penyalurannya.&nbsp;
 

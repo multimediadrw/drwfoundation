@@ -10,7 +10,7 @@ Yogyakarta- DRW Skincare kembali melakukan rutinitasnya di bulan Ramadhan. Di ke
 
 Pada Senin, 18 Maret 2024, DRW Skincare berkolaborasi dengan Masjid Nurul Ashri dalam mewujudkan penyaluran sembako gratis. Selain 500 sembako gratis yang diberikan, DRW Skincare juga membagikan seribu paket buka puasa untuk warga pelosok Kulon Progo. 
 
-![500 Sembako Gratis Disalurkan DRW Skincare untuk Warga Pelosok Kulon Progo](images/2024/12/donasi_ungu.jpg)500 Sembako Gratis Disalurkan DRW Skincare untuk Warga Pelosok Kulon Progo
+500 Sembako Gratis Disalurkan DRW Skincare untuk Warga Pelosok Kulon Progo
 
 Sembako gratis ini dibagikan kepada warga pelosok yang ada di Jatimulyo, Kulon Progo, Yogyakarta. Kedatangan DRW Skincare bersama dr. Wahyu Triasmara dan tim relawan Masjid Nurul Ashri ke desa tersebut disambut hangat oleh warga.
 
@@ -18,7 +18,7 @@ Acara penyaluran sembako gratis dan paket buka bersama ini diadakan di masjid se
 
 Usai melaksanakan buka bersama, para warga yang hadir serempak membagikan sembako gratis kepada sesamanya. Mereka bergotong royong membawa paket sembako gratis yang menjadi kado ramadhan DRW Skincare.
 
-![500 Sembako Gratis Disalurkan DRW Skincare untuk Warga Pelosok Kulon Progo](images/2024/12/donasi_ungu_1.jpg)500 Sembako Gratis Disalurkan DRW Skincare untuk Warga Pelosok Kulon Progo
+500 Sembako Gratis Disalurkan DRW Skincare untuk Warga Pelosok Kulon Progo
 
 Warga membawa paket sembako gratis ini menggunakan motor dengan obrokan yang muat membawa 7-8 paket sembako. 500 sembako gratis dibagikan secara menyeluruh ke warga-warga yang ada di Desa Jatimulyo, Kulon Progo.
 

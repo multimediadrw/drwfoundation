@@ -12,15 +12,11 @@ Pada pembagian santunan wilayah Cimahi ini dilakukan di dua lokasi pesantren yan
 
 Paket alat tulis ini ditargetkan untuk para anak yatim piatu yang merupakan para santri dan santriwati di kedua pondok pesantren tersebut. Alhamdulillah telah dilakukan kunjungan dan pendataan penerima santunan sebelum pembagian paket ini berlangsung.
 
-![Dzawani Bagikan Paket Alat Tulis untuk Anak Yatim Daerah Cimahi](images/2023/04/image-1.png)
-
 Sebanyak 70 paket yang telah disiapkan sebelumnya, dibagikan kepada seluruh penerima. Dengan masing-masing sebanyak 35 paket untuk Pondok Pesantren Miftahul Sidiq, dan 35 paket untuk Yayasan Al-Furqon.
 
 Puluhan anak yatim serta para pengurus pesantren yang bersangkutan menyambut antusias kepada acara santunan ini. Dengan adanya pembagian sejumlah paket santunan ini, para pengurus merasa terbantu akan penyediaan kelengkapan peralatan untuk menunjang sekolah para anak.
 
 Paket yang diberikan kepada anak yatim tersebut berupa tas sekolah, buku tulis, pensil, dan bolpoin yang nantinya akan digunakan untuk menunjang kegiatan belajar mengajar.
-
-![Dzawani Bagikan Paket Alat Tulis untuk Anak Yatim Daerah Cimahi](images/2023/04/image.png)
 
 Kegiatan pemberian santunan di daerah Cimahi ini sebagai rangkaian dari pemberian santunan anak yatim yang dilakukan oleh Dzawani di beberapa wilayah, seperti di Kota Bandung dan Kota Garut.
 

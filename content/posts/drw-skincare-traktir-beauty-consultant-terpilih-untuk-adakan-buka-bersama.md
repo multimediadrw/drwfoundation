@@ -14,7 +14,7 @@ Program *support* buka puasa bersama *beauty consultant* ini merupakan inisiatif
 
 *Beauty consultant* dibebaskan untuk mengadakan acara buka bersama ini di domisilinya masing-masing. Ada yang menyelenggarakannya di Batam, Kalimantan, Jawa Timur, Jawa Tengah, dan lain sebagainya. 
 
-![DRW Skincare Traktir Beauty Consultant Terpilih untuk Adakan Buka Bersama](images/2024/04/traktiran-buka-puasa.png)DRW Skincare Traktir Beauty Consultant Terpilih untuk Adakan Buka Bersama
+DRW Skincare Traktir Beauty Consultant Terpilih untuk Adakan Buka Bersama
 
 Dengan uang tunai yang diterima, *beauty consultant* bisa menyelenggarakan acara ini dengan tim maupun *customer*-nya. Banyak *beauty consultant *yang mengadakan acara buka bersama secara kreatif dan unik.
 

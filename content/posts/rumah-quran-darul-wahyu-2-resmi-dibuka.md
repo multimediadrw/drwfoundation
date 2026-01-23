@@ -12,7 +12,7 @@ Rumah Quran Darul Wahyu 2 merupakan inisiasi dr. Wahyu Triasmara, M.Kes AAAM, AI
 
 DRW Skincare ingin menjangkau lebih banyak kebermanfaatan dan keberkahan dengan mendirikan Rumah Quran Darul Wahyu 2. Sekaligus bercita-cita dalam mencetak penghafal Al-Quran yang mutqin.
 
-![Rumah Quran Darul Wahyu 2 Resmi Dibuka!](images/2024/08/WhatsApp-Image-2024-08-21-at-09.36.10.jpeg)Rumah Quran Darul Wahyu 2 Resmi Dibuka!
+Rumah Quran Darul Wahyu 2 Resmi Dibuka!
 
 Di Rumah Quran Darul Wahyu 2, mahasiswa (putra) muslim diperbolehkan mendaftar. Program menghafal Al-Quran dan belajar agama ini berlangsung selama 2 tahun. Selama itu juga, santri putra dianjurkan untuk tinggal di Rumah Quran Darul Wahyu 2.
 
@@ -22,7 +22,7 @@ Selain menjadi santri, mereka juga diperbolehkan ikut sebagai *volunteer* kegiat
 
 Rumah Quran Darul Wahyu 2 ini bertempat di Jalan Jambon, Bedog, Trihanggo, Kec. Gamping, Kabupaten Sleman, Daerah Istimewa Yogyakarta. Karena Rumah Quran Darul Wahyu 2 berada di lingkungan yang tenang, aktivitas para santri tahfidz dalam menghafal Al-Quran sangat terdukung.
 
-![Rumah Quran Darul Wahyu 2 Resmi Dibuka!](images/2024/08/WhatsApp-Image-2024-08-21-at-09.36.11.jpeg)Rumah Quran Darul Wahyu 2 Resmi Dibuka!
+Rumah Quran Darul Wahyu 2 Resmi Dibuka!
 
 Bukan itu saja, lokasi tersebut terpilih karena DRW Skincare dan DRW Foundation ingin menghidupkan musholla yang tidak terurus. Sehingga, mendirikan Rumah Quran Darul Wahyu 2 di lingkungan tersebut adalah hal yang tepat.
 

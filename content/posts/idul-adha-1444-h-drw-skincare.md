@@ -10,13 +10,13 @@ Jogja- Ibadah qurban yang dilakukan oleh umat Muslim pada hari raya Idul Adha me
 
 Memperingati hari raya Idul Adha 1444 H kali ini, DRW Skincare melakukan program kegiatan berupa penyerahan hewan qurban dengan mengirimkan sebanyak 83 ekor. Dengan kebaikan hatinya, Dokter Wahyu Triasmara memberikan kesempatan kepada karyawan DRW Skincare dengan membagi satu ekor kambing agar dapat merasakan indahnya berkurban di hari raya Idul Adha.
 
-![Semangat Idul Adha 1444 H, DRW Skincare Salurkan 83 Hewan Qurban](images/2023/07/QURBAN-DRW-SKINCARE-1-3-1024x576.jpg)Semangat Idul Adha 1444 H, DRW Skincare Salurkan 83 Hewan Qurban
+Semangat Idul Adha 1444 H, DRW Skincare Salurkan 83 Hewan Qurban
 
 Melalui DRW Foundation, DRW Skincare mengirimkan hewan-hewan tersebut ke beberapa masjid, pondok pesantren, santri yatim, serta santri penghafal Al-Qur’an di Jogja dan sekitarnya. Pengiriman hewan qurban ini dilaksanakan sejak tanggal 27, 28, dan 30 Juni 2023.&nbsp;
 
 Diwakilkan oleh PM DRW Foundation, penyerahan hewan qurban disambut baik oleh penerima. Mulai dari pihak ta’mir masjid dan perwakilan pondok, pihak yang dituju telah menerima penyerahan hewan qurban DRW Skincare secara suka cita, sehingga proses pengiriman serta penyaluran berjalan dengan sangat baik.
 
-![Semangat Idul Adha 1444 H, DRW Skincare Salurkan 83 Hewan Qurban](images/2023/07/QURBAN-DRW-SKINCARE-1024x576.jpg)Semangat Idul Adha 1444 H, DRW Skincare Salurkan 83 Hewan Qurban
+Semangat Idul Adha 1444 H, DRW Skincare Salurkan 83 Hewan Qurban
 
 Selain melakukan pengiriman di Kota Jogja dan sekitarnya, DRW Skincare juga menyerahkan hewan qurban ke Kota Purworejo dan Kota Pati. Sebanyak 27 kambing dan 2 sapi dikirim ke Purworejo, sedangkan 10 ekor kambing dikirim ke Pati.&nbsp;
 

@@ -20,7 +20,7 @@ Dalam penuturannya, Sayyidah Fatimah Az-Zahra patut jadi teladan yang baik untuk
 
 Oleh sebab itu, ada beberapa sifat dan sikap Fatimah Az-Zahra yang perlu diterapkan dalam kehidupan para muslimah sehari-hari.
 
-![Ustadzah Oki Setiana Dewi Isi Tabligh Akbar Ramadhan DRW Skincare](images/2024/04/fdsdfs-1024x1024.png)Ustadzah Oki Setiana Dewi Isi Tabligh Akbar Ramadhan DRW Skincare
+Ustadzah Oki Setiana Dewi Isi Tabligh Akbar Ramadhan DRW Skincare
 
 Untuk menyemarakkan Tabligh Akbar ini, DRW Skincare membuka *booth*, menyediakan *skin analyzer,* dan konsultasi gratis untuk para *audience*.&nbsp;
 

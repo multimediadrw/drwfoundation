@@ -10,7 +10,7 @@ Yuk daftar program beasiswa di Rumah Qur&#8217;an Darul Wahyu Yogyakarta, kunjun
 
  atau mengontak nomor 082153843671 untuk informasi lebih lanjut.
 
-![Beasiswa Tahfidz Intensif Rumah Qur'an Darul Wahyu Yogyakarta Khusus Akhwat](images/2023/08/beasiswa-rumah-tahfidz-putri-darul-wahyu-1x1-Copy.png)Beasiswa Tahfidz Intensif Rumah Qur&#8217;an Darul Wahyu Yogyakarta Khusus Akhwat
+Beasiswa Tahfidz Intensif Rumah Qur&#8217;an Darul Wahyu Yogyakarta Khusus Akhwat
 
 DRW Foundation membuka program beasiswa *tahfidz intensif* Rumah Qur’an Darul Wahyu khusus akhwat (putri ) yang bertempat di Kota Yogyakarta. Program beasiswa *tahfidz intensif* ini ditujukan untuk pada *hafidzah* yang serius ingin menghafalkan Al-Quran 30 juz. Di bawah naungan dr. Wahyu Triasmara, Rumah Qur’an Darul Wahyu membuka pendaftaran batch 1 pada bulan Agustus 2023. Rumah Qur’an Darul Wahyu membuka program beasiswa *tahfidz intensif* ini dengan rentang masa pembelajaran selama 2 tahun.
 

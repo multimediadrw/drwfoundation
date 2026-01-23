@@ -12,7 +12,7 @@ Rangkaian acara dipusatkan di komplek Omah Laskar Sedekah, berlangsung dari sore
 
 “Alhamdulillah, acara berlangsung lancar dan sukses. Sponsornya dari DRW Skincare dengan *founder-*nya dr Wahyu Triasmara,” jelas Ketua Laskar Sedekah, Ma’ruf Fahrudin.
 
-![Pembagian Kado Ramadhan untuk Relawan Si Bulan](images/2024/12/donasi_ungu.jpg)Pembagian Kado Ramadhan untuk Relawan Si Bulan
+Pembagian Kado Ramadhan untuk Relawan Si Bulan
 
 Jumlah unit ambulans yang ikut, sebutnya, juga lebih banyak dibanding tahun lalu. Bahkan masih ada dari beberapa pihak yang akan hadir lagi dengan membawa ambulans, namun terpaksa tak dikabulkan, sebab tempat parkir ambulans sudah tidak memungkinkan.
 
@@ -20,7 +20,7 @@ Jumlah unit ambulans yang ikut, sebutnya, juga lebih banyak dibanding tahun lalu
 
 Ada sejumlah pejabat pemerintah yang menyempatkan hadir serta memberi sambutan singkat di panggung komplek Omah Laskar Sedekah, misalnya Sekda Sleman (H Hardo Kiswoyo SE MSi) dan Lurah Margoluwih (Sunaryo).
 
-![Pembagian Kado Ramadhan untuk Relawan Si Bulan](images/2024/12/donasi_ungu_1.jpg)Pembagian Kado Ramadhan untuk Relawan Si Bulan
+Pembagian Kado Ramadhan untuk Relawan Si Bulan
 
 Sebelum simbolis pembagian paket sembako, dr Wahyu Triasmara memberikan sambutan, yang menyatakan ungkapan rasa syukur dan perasaan senang,&nbsp;karena relawan ambulans Jogja-Jateng sangat antusias mengikuti kopdar atau silaturahmi tersebut.
 

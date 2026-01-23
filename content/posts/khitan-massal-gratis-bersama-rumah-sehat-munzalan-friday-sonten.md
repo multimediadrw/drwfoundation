@@ -10,7 +10,7 @@ Dalam rangka miilaad (ulang tahun) yayasan Friday Sonten yang ke-2, DRW Foundati
 
 Kegiatan khitanan massal ini bertujuan untuk membantu masyarakat yang membutuhkan dalam hal khitanan anak laki-laki. DRW Foundation sebagai lembaga sosial yang berkomitmen untuk membantu masyarakat yang kurang mampu, memilih untuk melakukan kegiatan khitanan massal sebagai bentuk dukungan terhadap anak-anak yang membutuhkan.
 
-![Khitan Massal Gratis bersama Rumah Sehat Munzalan &amp; Friday Sonten](images/2024/12/donasi_ungu.jpg)Khitan Massal Gratis bersama Rumah Sehat Munzalan &amp; Friday Sonten
+Khitan Massal Gratis bersama Rumah Sehat Munzalan &amp; Friday Sonten
 
 Acara ini diadakan dengan memperhatikan protokol kesehatan yang ketat, mulai dari pemeriksaan kesehatan, penggunaan alat pelindung diri, hingga sterilisasi alat-alat yang digunakan dalam proses khitanan. Rumah Sehat Munzalan Jogja, yang merupakan lembaga kesehatan yang berkomitmen untuk memberikan layanan kesehatan berkualitas, memberikan bantuan dan dukungan dalam kegiatan khitanan massal tersebut.
 

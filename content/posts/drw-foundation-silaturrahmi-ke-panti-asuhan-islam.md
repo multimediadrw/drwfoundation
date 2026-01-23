@@ -12,7 +12,7 @@ Berada di Jalan Pramuka No.68, Giwangan, Kecamatan Umbulharjo, Kota Yogyakarta, 
 
 Untuk mengawali acara silaturrahmi dan doa bersama kali ini, dr. Wahyu Triasmara memberi sambutan yang mengajak para santriwati untuk senantiasa bersyukur dengan keadaan yang sedang dijalani saat ini. Dibandingkan ribuan anak-anak yang ada di Palestina, para santriwati Panti Asuhan Islam RM Suryowinoto lebih beruntung.
 
-![Semarakkan Hari Pahlawan, DRW Foundation Silaturrahmi ke Panti Asuhan Islam RM Suryowinoto](images/2024/12/donasi_ungu.jpg)Semarakkan Hari Pahlawan, DRW Foundation Silaturrahmi ke Panti Asuhan Islam RM Suryowinoto
+Semarakkan Hari Pahlawan, DRW Foundation Silaturrahmi ke Panti Asuhan Islam RM Suryowinoto
 
 &#8220;Kita ada saudara muslim, di Palestina, Gaza sedang mengalami suatu peristiwa yang menyedihkan. Banyak korban dari anak-anak, ibu-ibu, dan juga para orang tua yang harus meninggal syahid akibat agresi militer zionis Israel. Oleh karena itu, apapun kondisi adik-adik semua, kondisi kita semua di sini harus selalu disyukuri,&#8221; tutur dr. Wahyu Triasmara.
 

@@ -14,7 +14,7 @@ Seluruh tim bergerak pada Sabtu, 24 Februari 2024 ke Kota Demak. Para relawan ya
 
 Ada beberapa masjid di Kota Demak yang menjadi sasaran aksi bersih-bersih masjid ini. Salah satunya adalah Kedungbanteng, Kedung Ketanjung, dan Dusun Wonorejo yang menjadi korban musibah banjir.
 
-![Peduli Banjir Demak, DRW Skincare Unjuk Aksi Bersih-bersih Masjid](images/2024/02/peduli-demak.png)Peduli Banjir Demak, DRW Skincare Unjuk Aksi Bersih-bersih Masjid
+Peduli Banjir Demak, DRW Skincare Unjuk Aksi Bersih-bersih Masjid
 
 DRW Skincare yang bersinergi dengan tim DRW Foundation pergi ke lokasi-lokasi tersebut bersama dengan komunitas lainnya. Ada beberapa kegiatan yang dilakukan dalam aksi bersih-bersih masjid. Di antaranya adalah; aksi gebyur lantai, gebyur teras, cuci karpet, dan membersihkan masjid.
 

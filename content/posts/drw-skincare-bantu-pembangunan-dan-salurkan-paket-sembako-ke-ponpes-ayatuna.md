@@ -18,7 +18,7 @@ Dalam kesempatan ini, dr. Wahyu Triasmara mengungkapkan jika ia ingin membantu p
 
 Sontak hal ini disambut dengan seruan Takbir dari para pengurus dan santri Pondok Pesantren Ayatuna. Meski sebelumnya DRW Skincare pernah berdonasi untuk pembangunan pondok, namun sumbangan kali ini masih tetap berkesan.
 
-![DRW Skincare Bantu Pembangunan dan Salurkan Paket Sembako ke Ponpes Ayatuna](images/2024/04/DSC02362-1024x731.jpg)DRW Skincare Bantu Pembangunan dan Salurkan Paket Sembako ke Ponpes Ayatuna
+DRW Skincare Bantu Pembangunan dan Salurkan Paket Sembako ke Ponpes Ayatuna
 
 Program ini sudah menjadi rutinitas bagi DRW Skincare dalam melakukan penyaluran paket sembako gratis di bulan Ramadhan. Sehingga penerima dapat merasakan kebermanfaatan yang diberikan oleh DRW Skincare.
 

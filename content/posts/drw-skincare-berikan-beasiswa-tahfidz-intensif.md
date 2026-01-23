@@ -10,7 +10,7 @@ Sebuah gebrakan baru lahir dari DRW Skincare di bawah naungan dr. Wahyu Triasmar
 
 Program beasiswa Rumah Qur&#8217;an Darul Wahyu akan dibuka secara resmi pada bulan Agustus 2023. Sedangkan untuk pendaftarannya sudah dibuka mulai bulan Juli 2023. Calon *muhafidz* yang tertarik mendapatkan beasiswa Rumah Qur&#8217;an Darul Wahyu Yogyakarta, bisa langsung mendaftar dan mengajukan diri sebelum pendaftaran tutup. Sebelum mendaftarkan diri untuk mendapatkan program beasiswa ini, ada beberapa persyaratan yang harus dipenuhi calon *muhafidz*. Seperti; *ikhwan* dengan rentang usia mulai 18-25 tahun, lancar membaca Al-Qur&#8217;an, sehat secara jasmani dan rohani, tidak sedang kuliah atau bekerja, bersedia mengikuti program sampai selesai, hingga bersedia untuk tinggal di asrama selama program berlangsung.
 
-![DRW Skincare Berikan Beasiswa Tahfidz Intensif Lewat Rumah Qur'an Darul Wahyu](images/2023/08/image.jpeg)DRW Skincare Berikan Beasiswa Tahfidz Intensif Lewat Rumah Qur&#8217;an Darul Wahyu
+DRW Skincare Berikan Beasiswa Tahfidz Intensif Lewat Rumah Qur&#8217;an Darul Wahyu
 
 *Kulliyatul Muhafidzin* Darul Wahyu akan melaksanakan program tahfidz ini selama 2 tahun. Selama itu, santri tahfidz Rumah Qur&#8217;an Darul Wahyu Yogyakarta harus bersedia tinggal di asrama dan mengikuti semua program yang telah ditetapkan. Selain mendapatkan pembelajaran *tahfidz* secara intensif setiap harinya, para *muhafidz* yang lolos seleksi akan mengikuti kajian kitab hingga mendapatkan pembelajaran bahasa Arab serta persiapan menjadi kader *muhafidz* yang *mutqin.*
 

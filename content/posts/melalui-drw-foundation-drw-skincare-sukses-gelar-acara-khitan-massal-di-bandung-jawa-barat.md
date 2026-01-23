@@ -10,7 +10,7 @@ Bandung-Sebagai bentuk bakti dan kepedulian terhadap sesama, DRW Skincare mengg
 
 Khitanan massal ini menjadi sebuah acara sosial yang bertujuan membantu orang yang membutuhkan biaya khitan. Selain itu, menanamkan rasa kepekaan, saling tolong menolong dan kesadaran untuk saling berbagi melalui beragam kegiatan silaturahmi sesama manusia. 
 
-![Melalui DRW Foundation, DRW Skincare Sukses Gelar Acara Khitan Massal di Bandung Jawa Barat](images/2023/04/DSC00020-1-1024x683.jpg)Melalui DRW Foundation, DRW Skincare Sukses Gelar Acara Khitan Massal di Bandung Jawa Barat
+Melalui DRW Foundation, DRW Skincare Sukses Gelar Acara Khitan Massal di Bandung Jawa Barat
 
 Kegiatan ini juga merupakan wujud kepedulian DRW Foundation dan DRW Skincare yang dipelopori oleh dr. Wahyu Triasmara kepada masyarakat, khususnya kepada anak-anak yang kurang mampu, anak yatim, dan fakir miskin, dengan memberikan layanan yaitu khitan secara gratis.
 
@@ -20,11 +20,11 @@ Untuk memberikan fasilitas terbaik terhadap para peserta khitan, disediakan 18 o
 
 Khitanan massal yang diadakan oleh DRW Foundation ini menggunakan sunat modern, untuk menjaga keamanan serta menghindari hal-hal yang tidak diinginkan. DRW Foundation sendiri sebagai penyelenggara, tentunya ingin memberikan yang terbaik untuk kegiatan khitanan ini, dengan menyediakan beragam fasilitas medis dan fasilitas penunjang yang sudah teruji. 
 
-![Melalui DRW Foundation, DRW Skincare Sukses Gelar Acara Khitan Massal di Bandung Jawa Barat](images/2023/04/DSC00058-1024x683.jpg)Melalui DRW Foundation, DRW Skincare Sukses Gelar Acara Khitan Massal di Bandung Jawa Barat
+Melalui DRW Foundation, DRW Skincare Sukses Gelar Acara Khitan Massal di Bandung Jawa Barat
 
 Tentunya, khitanan massal ini disambut dengan suka cita oleh para orang tua dan wali dari anak  yang kurang mampu untuk mengkhitan para anaknya. Antusiasme untuk melakukan khitanan ini, terlihat dari banyaknya pendaftar yang berminat untuk mengikuti kegiatan. Disamping itu, ketakutan anak terhadap proses khitan juga tidak dapat dihindari, terlihat dari beberapa anak yang menangis setelah melakukan proses khitan. Tetapi hal tersebut tidak memundurkan semangat untuk menyelesaikan prosesnya.
 
-![Melalui DRW Foundation, DRW Skincare Sukses Gelar Acara Khitan Massal di Bandung Jawa Barat](images/2023/04/DSC00087-1024x683.jpg)Melalui DRW Foundation, DRW Skincare Sukses Gelar Acara Khitan Massal di Bandung Jawa Barat
+Melalui DRW Foundation, DRW Skincare Sukses Gelar Acara Khitan Massal di Bandung Jawa Barat
 
 Dengan adanya khitanan massal ini, DRW Foundation berharap dapat membantu orang-orang yang membutuhkan uluran tangan dalam menunaikan khitan. Diharapkan untuk para peserta dapat menjadi anak-anak sehat dan sholeh yang selalu taat pada agama.
 

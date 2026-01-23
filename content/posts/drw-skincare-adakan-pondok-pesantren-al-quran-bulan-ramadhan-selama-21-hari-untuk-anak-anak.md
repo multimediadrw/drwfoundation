@@ -8,7 +8,7 @@ author: "2"
 
 Yogyakarta &#8211; DRW Skincare mengadakan Pondok Pesantren Al-Qur&#8217;an selama 21 hari di bulan Ramadhan mulai tanggal 25 Maret sampai 14 April 2023. Kegiatan Pesantren Al-Qur&#8217;an selama Bulan Ramadhan ini berkolaborasi dengan DRW Foundation, Pesantren Ramadhan Qur&#8217;an Qorina &amp; Griya Qur&#8217;an Sukati Ma&#8217;sum.
 
-![DRW Skincare Adakan Pondok Pesantren Al-Quran Bulan Ramadhan selama 21 Hari untuk Anak-Anak](images/2023/04/2-14-1-1024x576.jpg)DRW Skincare Adakan Pondok Pesantren Al-Quran Bulan Ramadhan selama 21 Hari untuk Anak-Anak
+DRW Skincare Adakan Pondok Pesantren Al-Quran Bulan Ramadhan selama 21 Hari untuk Anak-Anak
 
 Sebanyak 18 santri dari berbagai daerah hadir ikut mabit dalam kegiatan pesantren Ramadhan ini. Mereka dibimbing oleh 5 ustadz. Ustadz Hendy Sophian selaku ketua menyambut baik kolaborasi yang dilakukan DRW Skincare sehingga semua kegiatan dapat berlangsung lancar dan gratis tanpa dipungut biaya.
 
@@ -52,10 +52,10 @@ Berikut Jadwal kegiatan Pondok Pesantren Al-Quran Bulan Ramadhan DRW Skincare
 
 dr. Wahyu Triasmara, *owner* DRW Skincare dalam kunjungannya ke Pondok Pesantren Al-Qur&#8217;an Bulan Ramadhan DRW Skincare menyampaikan rasa terimakasih kepada segenap ustadz dan pembimbing yang telah mensukseskan kegiatan. Ustadz Hendy Sophian selaku pembimbing mengucapkan juga terimakasih kepada DRW Skincare yang mau membersamai kegiatan. Menjadi salah satu tujuan diadakannya kegiatan pesantren bulan Ramadhan ini agar anak-anak bisa lebih produktif di bulan Ramadhan, khususnya mereka yang sudah libur di bulan Ramadhan sehingga banyak disibukkan dengan Al-Qur&#8217;an.
 
-![DRW Skincare Adakan Pondok Pesantren Al-Quran Bulan Ramadhan selama 21 Hari untuk Anak-Anak](images/2023/04/WhatsApp-Image-2023-04-12-at-09.56.00-1024x770.jpeg)DRW Skincare Adakan Pondok Pesantren Al-Quran Bulan Ramadhan selama 21 Hari untuk Anak-Anak
+DRW Skincare Adakan Pondok Pesantren Al-Quran Bulan Ramadhan selama 21 Hari untuk Anak-Anak
 
 Turut hadir dalam lawatannya, Syeikh Muhammad dari Palestina mengunjungi kegaitan anak-anak memberi motivasi untuk terus giat membaca dan menghafal Al-Qur&#8217;an.
 
-![DRW Skincare Adakan Pondok Pesantren Al-Quran Bulan Ramadhan selama 21 Hari untuk Anak-Anak](images/2023/04/MRY00245-1-1024x576.jpg)DRW Skincare Adakan Pondok Pesantren Al-Quran Bulan Ramadhan selama 21 Hari untuk Anak-Anak
+DRW Skincare Adakan Pondok Pesantren Al-Quran Bulan Ramadhan selama 21 Hari untuk Anak-Anak
 
 dr. Wahyu Triasmara juga menyerahkan Kado Spesial Ramadhan DRW Skincare kepada seluruh pembimbing dan pengajar. Beliau juga menitipkan paket hadiah khusus untuk seluruh santri sebagai hadiah karena telah mengkhatamkan Al-Qur&#8217;an selama kegiatan pesantren berlangsung. Pakt hadiah tersebut akan dibagikan pada penutupan sekaligus khataman Pondok Pesantren Al-Qur&#8217;an Bulan Ramadhan DRW Skincare pada 14 April 2023.

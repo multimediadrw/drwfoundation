@@ -10,14 +10,10 @@ Bandung- DRW For Man menggelar acara Jumat Ganteng, Minggu (19/03/2023). Progam 
 
 Acara yang yang ditujukan kepada para santri yang tinggal di pondok pesantren ini, bertujuan untuk membantu para santri dalam menjaga kebersihan, terutama penampilan rambut.
 
-![](images/2024/12/donasi_ungu.jpg)
-
 Jumat Ganteng memberikan edukasi bagaimana cara merawat, menjaga kesehatan diri khususnya tata memilih dan mencukur rambut.
 DRW For Man&nbsp;juga memberikan sejumlah paket sebagai penunjang progam ini. Bagi para peserta Jum’at Ganteng, paket berupa baju koko, sarung, dan peci, yang dibuat sebanyak 50 paket. Paket tersebut dibagikan, kepada para santri yang telah berpartisipasi melakukan pemotongan rambut.
 
 Program Jum’at Ganteng disambut antusias oleh para santri. Terlebih saat berlangsungnya sharing session&nbsp;dari perwakilan DRW For Man, banyak para peserta yang memiliki minat tinggi untuk belajar.
-
-![](images/2024/12/donasi_ungu_1.jpg)
 
 Semangat para santri khususnya yang memiliki tugas sebagai pemotong rambut di pesantren tersebut sangat tinggi untuk mengetahui tata cara dan trik dari cara memotong rambut. &nbsp;Saat kegiatan pemotongan rambut pun, para santri telihat berkerumun untuk memperhatikan pencukur dalam bekerja.
 

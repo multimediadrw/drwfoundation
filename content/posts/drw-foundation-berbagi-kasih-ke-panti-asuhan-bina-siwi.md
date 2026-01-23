@@ -14,7 +14,7 @@ Mengunjungi anak-anak istimewa membuat dr. Wahyu Triasmara takjub dan sumringah 
 
 &#8220;Alhamdulillah kita bisa berkunjung ke panti asuhan anak-anak istimewa ini. Di sini anak-anak difabel, anak-anak istimewa ya, luar biasa ternyata ketika dibersamai oleh pengurus-pengurus yang sabar dan telaten ini mereka bisa berkarya macam-macam,&#8221; tutur dr. Wahyu Triasmara takjub saat menelusuri sekitaran panti.
 
-![Menginspirasi, DRW Foundation Berbagi Kasih ke Panti Asuhan Bina Siwi Yogyakarta](images/2023/09/377256204_201449742788499_6122774994179493463_n.jpg)Menginspirasi, DRW Foundation Berbagi Kasih ke Panti Asuhan Bina Siwi Yogyakarta
+Menginspirasi, DRW Foundation Berbagi Kasih ke Panti Asuhan Bina Siwi Yogyakarta
 
 Meskipun berkebutuhan khusus, anak-anak di Panti Asuhan Bina Siwi ini memiliki bakat luar biasa hebat. Berkat para pengurus, mereka bisa melakukan segala hal yang biasa dilakukan oleh anak-anak normal kebanyakan. Ada pembelajaran *life skill* seperti menjahit, beternak, membuat pupuk, berdagang, hingga bekerja sama dengan toko sekitar yang diajarkan oleh pengurus panti. Pembelajaran tersebut yang membuat mereka lebih kuat dan terampil dalam menekuni bidang yang diminati. Karya seperti lukisan, kaos sablon, pakaian jadi, hingga musik yang diproduksi adalah hasil tangan-tangan ajaib anak Panti Asuhan Bina Siwi yang dipamerkan dan diperdengarkan.
 

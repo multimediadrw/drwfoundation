@@ -12,7 +12,7 @@ Bersama dengan DRW Foundation, DRW Skincare menyalurkan ribuan paket buka puasa 
 
 DRW Skincare berkolaborasi dengan tim Safari UII dalam kajian Spesial Senja. Acara ini diselenggarakan pada Rabu, 13 Maret 2024 di Masjid Ulil Albab UII. 
 
-![DRW Skincare Bagikan Ribuan Paket Buka Puasa ke Masjid-masjid Kampus Ternama](images/2024/12/donasi_ungu.jpg)DRW Skincare Bagikan Ribuan Paket Buka Puasa ke Masjid-masjid Kampus Ternama
+DRW Skincare Bagikan Ribuan Paket Buka Puasa ke Masjid-masjid Kampus Ternama
 
 Dihadiri oleh Ustadz Hammad Rosyadi, kajian Spesial Senja ini dipenuhi oleh para mahasiswa UII dan warga sekitar.
 
@@ -22,7 +22,7 @@ Dalam acara ini, Ustadzah Oki Setiana Dewi diundang untuk menuturkan materi sepu
 
 Selanjutnya, ada kolaborasi dengan tim RDK UGM di acara Muslimah Inspiring Talk. Kajian ini diadakan pada Minggu, 17 Maret 2024 di Mardliyah Islamic Center. 
 
-![DRW Skincare Bagikan Ribuan Paket Buka Puasa ke Masjid-masjid Kampus Ternama](images/2024/12/donasi_ungu_1.jpg)DRW Skincare Bagikan Ribuan Paket Buka Puasa ke Masjid-masjid Kampus Ternama
+DRW Skincare Bagikan Ribuan Paket Buka Puasa ke Masjid-masjid Kampus Ternama
 
 Kajian yang bertemakan “Be a Good Muslimah*”* ini, mengundang Kartika F. Astuti, Putri Romadhona, dan dr. Savitri Shitarukmi sebagai pemateri.&nbsp;
 
@@ -34,7 +34,7 @@ Ribuan paket buka bersama dibagikan sebagai bentuk kerjasama antara DRW Skincare
 
 Alhamdulillah, tercatat lebih dari 5.000 ribu paket buka puasa telah disalurkan DRW Skincare untuk kegiatan Ramadhan yang diselenggarakan pada tahun ini.
 
-![DRW Skincare Bagikan Ribuan Paket Buka Puasa ke Masjid-masjid Kampus Ternama](images/2024/12/bersholawat_1.png)DRW Skincare Bagikan Ribuan Paket Buka Puasa ke Masjid-masjid Kampus Ternama
+DRW Skincare Bagikan Ribuan Paket Buka Puasa ke Masjid-masjid Kampus Ternama
 
 Selain itu, DRW Skincare juga menyediakan *booth*, konsultasi gratis dengan *skin analyzer*, *voucher treatment*, dan *free* produk DRW Skincare di setiap acara.
 

@@ -14,7 +14,7 @@ Berkolaborasi bersama DRW Foundation, DRW Skincare menyalurkan 102 domba dan 1 s
 
 Seluruh hewan qurban tersebut disalurkan oleh DRW Skincare ke sekitar unit bisnis, mulai dari Beauty Center DRW Skincare, Dzawani Kost, Amanah Pangan Nusantara, dan lain sebagainya.
 
-![Tebarkan Kebermanfaatan, DRW Skincare Salurkan 103 Hewan Qurban Saat Momen Idul Adha 1445 H](images/2024/08/TUMBNILE-REELS_DRW-QURBAN.jpg)Tebarkan Kebermanfaatan, DRW Skincare Salurkan 103 Hewan Qurban Saat Momen Idul Adha 1445 H
+Tebarkan Kebermanfaatan, DRW Skincare Salurkan 103 Hewan Qurban Saat Momen Idul Adha 1445 H
 
 DRW Foundation turut mendistribusikan hewan qurban ini ke Yogyakarta, Purworejo, dan Bandung. Di bawah arahan Ustadz Haris Ahsan, DRW Foundation memastikan pendistribusian hewan qurban kali ini dibagikan secara menyeluruh.
 

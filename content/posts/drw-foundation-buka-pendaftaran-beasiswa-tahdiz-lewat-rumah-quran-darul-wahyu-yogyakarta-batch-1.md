@@ -64,8 +64,6 @@ Untuk informasi lebih lanjut soal pendaftarannya, simak persyaratan berikut ini:
 
 Lokasi asrama untuk para muhafidz terletak di Jl. Anggajaya 2 RT.02, RW.02, Sanggrahan, Condongcatur, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta. Dekat dengan tempat strategis, letaknya mudah ditemukan dan dijangkau oleh transportasi. Selama mendapatkan beasiswa penuh di Rumah Qur&#8217;an Darul Wahyu, para muhafidz wajib tinggal di asrama dan mengikuti seluruh program pembelajaran yang telah ditetapkan.
 
-![](images/2023/08/beasiswa-rumah-tahfidz-1-x-1-1024x1024.png)
-
 Dr. Wahyu Triasmara dan DRW Foundation bersama-sama ingin mewujudkan program beasiswa Rumah Qur&#8217;an Darul Wahyu untuk mendukung para Hafidzul-Qur&#8217;an menjadi hafidz yang mutqin serta berdedikasi tinggi terhadap Al-Quran. Dengan adanya Rumah Qur&#8217;an Darul Wahyu, para hafidzul Qur&#8217;an diharapkan dapat mempelajari, menghafal, serta memahami Al-Qur&#8217;an dengan baik.
 
 Jika tertarik untuk mendaftarkan diri, akses link form pendaftaran di  sebelum pendaftaran tutup. Pastikan untuk melengkapi persyaratan dan berkas-berkas sesuai dengan arahan di atas. Untuk informasi lebih lanjut, hubungi nomor 0821-5384-3671.

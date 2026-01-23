@@ -14,7 +14,7 @@ Dalam acaranya, dr. Wahyu Triasmara selaku pencetus pendirian Rumah Quran Darul 
 
 Seusai mengutarakan inti dari diselenggarakannya acara ini, dr. Wahyu Triasmara juga mengungkapkan program beasiswa tahfidz yang jadi salah satu proker DRW Foundation dengan dibukanya Rumah Quran Darul Wahyu ini.
 
-![Peresmian Rumah Quran Darul Wahyu Yogyakarta](images/2023/10/1696244303629.jpg)Peresmian Rumah Quran Darul Wahyu Yogyakarta
+Peresmian Rumah Quran Darul Wahyu Yogyakarta
 
 &#8220;Di sini beasiswa dua tahun *full* kita tanggung, begitu juga dengan biaya makan dan biaya hidupnya. Insyaa Allah setelah lulus 2 tahun kita sediakan lapangan pekerjaan di perusahaan kami,&#8221; ungkap dr. Wahyu Triasmara yang kemudian menutup sambutannya usai menjelaskan.
 

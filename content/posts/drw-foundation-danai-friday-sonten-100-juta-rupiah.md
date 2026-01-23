@@ -8,7 +8,7 @@ author: "2"
 
 Yogyakarta &#8211; Dr. Wahyu Triasmara, melalui DRW Foundation, mengajak banyak organisasi dan lembaga sosial untuk berkolaborasi dalam kegiatan kesejahteraan ummat. Kolaborasi ini berhasil menunjukkan hasil positif setelah DRW Foundation melakukan kerjasama dengan Yayasan Friday Sonten untuk berbagai kegiatan kesejahteraan ummat.
 
-![100 Juta dari DRW Foundation untuk Kolaborasi bareng Friday Sonten](images/2024/12/donasi_ungu.jpg)100 Juta dari DRW Foundation untuk Kolaborasi bareng Friday Sonten
+100 Juta dari DRW Foundation untuk Kolaborasi bareng Friday Sonten
 
 Kolaborasi antara DRW Foundation dan Friday Sonten ditandai dengan penyerahan donasi dana kegiatan dari DRW Foundation senilai 100 juta rupiah. Donasi tersebut akan digunakan untuk membiayai berbagai program kesejahteraan ummat yang dilaksanakan oleh Friday Sonten.
 

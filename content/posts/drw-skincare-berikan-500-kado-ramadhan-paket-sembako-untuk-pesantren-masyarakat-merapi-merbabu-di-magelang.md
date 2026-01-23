@@ -14,7 +14,7 @@ Kegiatan diisi oleh kajian yang disampaikan Ustadz Puji Hartono menjelang menung
 
 “Alhamdulillah, meski Ramadhan mulai menuju akhir tapi alhamdulillah kita masih bisa berkumpul menikmati bersama rezeki yang Allah titipkan melalu DRW Skincare. Sehingga bapak-ibu sekalian juga harus sering berbagi, memberikan kebahagian untuk mereka yang belum beruntung. Mulai dengan mengisi kotak infaq seribu perhari di masjid. inysaAllah bersama-sama kita bangkitkan masjid untuk membahagiakan semua orang” ungkap ustadz Puji.
 
-![](images/2024/12/donasi_ungu.jpg)DRW Skincare Berikan 500 Kado Ramadhan Paket Sembako
+DRW Skincare Berikan 500 Kado Ramadhan Paket Sembako
 
 Terlihat begitu besar antusias masyarakat dalam mendengarkan tausiah pengajian menjekang berbuka puasa. Dari yang paling belia tenang dalam gendongan ibu-ibu yang berkumpul, sekumpulan anak-anak yang tertawa jika Ustadz Puji melontarkan kaliamat canda, bapak-bapak yang duduk dan saling bersalaman semabari mendengarkan kajian.
 

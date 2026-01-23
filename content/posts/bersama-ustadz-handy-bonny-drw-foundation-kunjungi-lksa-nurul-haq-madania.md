@@ -10,7 +10,7 @@ Yogyakarta- Kunjungan silaturrahmi dan doa bersama yang diadakan oleh DRW Founda
 
 Untuk silaturrahmi dan doa bersama* batch* ke 9, DRW Foundation mengunjungi LKSA Nurul Haq Madania, salah satu yayasan yatim dan dhuafa terbesar di Yogyakarta. Berlokasikan di Jalan Janti, Gg. Gemak No.88 Gedongkuning, Banguntapan, Bantul, DI Yogyakarta, DRW Foundation dan dr. Wahyu Triasmara mendatangi pondok pesantren tersebut bersama dengan ustadz Handy Bonny.
 
-![Bersama Ustadz Handy Bonny, DRW Foundation Kunjungi LKSA Nurul Haq Madania](images/2023/10/Picsart_23-10-27_20-18-13-370.jpg)Bersama Ustadz Handy Bonny, DRW Foundation Kunjungi LKSA Nurul Haq Madania
+Bersama Ustadz Handy Bonny, DRW Foundation Kunjungi LKSA Nurul Haq Madania
 
 Kedatangan DRW Foundation dan Ustadz Handy Bonny membuat para santriwati semangat dan tersenyum sumringah. Bagaimana tidak, mereka terlihat antusias saat menyambut dan tidak sabar untuk mengikuti acara silaturrahmi dan doa bersama. Bahkan ketika Ustadz Handy Bonny menyampaikan tausiyahnya, para santriwati mendengarkan penuh dengan seksama. Belum lagi dengan materi yang dibawakan oleh Ustadz Handy Bonny yang menarik membuat para pendengar semakin menyenangkan.
 

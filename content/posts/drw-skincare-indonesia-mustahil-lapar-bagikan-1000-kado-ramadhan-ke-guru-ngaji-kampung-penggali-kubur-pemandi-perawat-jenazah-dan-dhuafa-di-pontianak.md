@@ -8,10 +8,10 @@ author: "2"
 
 Pontianak-DRW Skincare dan Indonesia Mustahil Lapar (IMM) melakukan kegiatan *Ifthor *Bahagia dan Berbagi Kado Ramadhan ke 1000 Guru Ngaji Kampung, Penggali Kubur, Pemandi Perawat Jenazah dan *Dhuafa&#8217;*. Kegiatan ini dilakukan dalam rangka pembagian 55.000 Kado Ramadhan DRW Skincare ke seluruh Indonesia pada 15 April 2023.
 
-![DRW Skincare &amp; Indonesia Mustahil Lapar Bagikan 1000 Kado Ramadhan di Pontianak](images/2023/04/MRY03266-1024x576.jpg)DRW Skincare &amp; Indonesia Mustahil Lapar Bagikan 1000 Kado Ramadhan di Pontianak
+DRW Skincare &amp; Indonesia Mustahil Lapar Bagikan 1000 Kado Ramadhan di Pontianak
 
 dr. Wahyu Triasmara, *owner* DRW Skincare menyampaikan dalam sambutannya bahwa Kado Ramadhan ini diberikan kepada 1000 penerima yang terdiri dari Guru Ngaji Kampung, Tukang gali Kubur, Penjaga Makam, Perawat Jenazah dan Yatim *Dhuafa&#8217;*. Beliau melanjutkan bahwa kegiatan ini merupakan rangkaian kegiatan berbagi DRW Skincare selama Ramadhan 1444 H dengan total Kado Ramadhan yang dibagikan sebanyak 55 ribu ke seluruh Indonesia dari Sabang sampai Merauke.
 
-![DRW Skincare &amp; Indonesia Mustahil Lapar Bagikan 1000 Kado Ramadhan di Pontianak](images/2023/04/MRY03344-1024x577.jpg)DRW Skincare &amp; Indonesia Mustahil Lapar Bagikan 1000 Kado Ramadhan di Pontianak
+DRW Skincare &amp; Indonesia Mustahil Lapar Bagikan 1000 Kado Ramadhan di Pontianak
 
 Ustadz Luqmanul Hakim selaku pimpinan Masjid Kapal Munzalan dan Program Indonesia Mustahil Lapar, menyatakan bahwa kegiatan ini sangat baik dan bermanfaat. Beliau bersyukur DRW Skincare bisa berkiprah dengan memberikan kebahagiaan kepada Guru Ngaji Kampung, Tukang Gali Kubur, Penjaga Kubur dan Perawat Jenazah melalui pembagian Kado Ramadhan.

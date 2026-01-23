@@ -8,13 +8,13 @@ author: "2"
 
 Yogyakarta- Senin, 25 September 2023 DRW Foundation bersama dengan dr. Wahyu Triasmara berkesempatan untuk memberi donasi 1 ton beras untuk santri lewat GIB Jogja. Momen ini menjadi salah satu bentuk kepedulian dr. Wahyu Triasmara lewat DRW Foundation untuk berbagi kasih kepada santri-santri di seluruh D.I Yogyakarta. 1 ton beras tersebut diserahkan oleh dr. Wahyu Triasmara saat kajian Subuh Menggapai Keberkahan (SMK) yang diselenggarakan di Rumah Tahfidz Darul Wahyu.
 
-![DRW Foundation Donasikan 1 Ton Beras untuk Santri lewat GIB Jogja](images/2023/09/MRY00020.jpg)DRW Foundation Donasikan 1 Ton Beras untuk Santri lewat GIB Jogja
+DRW Foundation Donasikan 1 Ton Beras untuk Santri lewat GIB Jogja
 
 Penyerahan 1 ton beras untuk santri lewat GIB Jogja ini diterima dengan baik oleh Ustad Luki selaku *Branch Manager*. DRW Foundation yang mendapat dukungan penuh dari dr. Wahyu Triasmara bersinergi bersama GIB Jogja untuk menyalurkan beras-beras terbaik ke seluruh pesantren yang ada di Yogyakarta. Bukan sekedar pemberian biasa, beras yang digunakan merupakan beras pilihan yang nantinya akan dikonsumsi oleh seluruh santri yang ada di pesantren-pesantren Jogja.
 
 Sebagai informasi, GIB atau Gerakan Informasi Beras merupakan sebuah gerakan yang berdirinya diprakarasi oleh Ustad K.H Luqmanul Hakim. Awal pergerakannya yang dimulai dari Masjid Kapal Munzalan, Pontianak, Kalimantan Barat. Sejak bulan April 2019, GIB memperluas ranahnya ke DI Yogyakarta dan mulai memberlakukan pendistribusian beras ke ribuan santri di puluhan pondok, panti asuhan, dan rumah tahfidz yang ada di Jogja. Gerakan ini didukung oleh pihak pemerintah secara penuh, sehingga GIB gencar melakukan penyaluran beras berkualitas ke tempat-tempat yang telah disebutkan di atas.
 
-![DRW Foundation Donasikan 1 Ton Beras untuk Santri lewat GIB Jogja](images/2023/09/MRY00059.jpg)DRW Foundation Donasikan 1 Ton Beras untuk Santri lewat GIB Jogja
+DRW Foundation Donasikan 1 Ton Beras untuk Santri lewat GIB Jogja
 
 Pemberian beras ke santri-santri yang ada di Yogyakarta ini bermanfaat untuk membantu para santri dalam mendapatkan fasilitas yang layak dan lebih baik. DRW Foundation turut berkontribusi dengan memberi donasi sebanyak 1 ton beras agar pemberian ini dapat bermanfaat untuk para santri di seluruh Yogyakarta.
 

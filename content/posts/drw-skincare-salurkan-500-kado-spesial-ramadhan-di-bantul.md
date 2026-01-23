@@ -14,7 +14,7 @@ Kegiatan berbagi kado spesial Ramadhan ini selalu dilaksanakan DRW Skincare seca
 
 Di kesempatan kali ini, sebanyak 500 kado spesial Ramadhan disalurkan DRW Skincare kepada para mustahik atas bantuan dari CMI dan TP PKK Bantul. Para mustahik merasa senang dan sangat antusias menerima bingkisan sembako.
 
-![Peduli Berbagi, DRW Skincare Salurkan 500 Kado Spesial Ramadhan di Kantor Kabupaten Bantul](images/2024/09/𝑴𝒂𝒓𝒉𝒂𝒃𝒂𝒏-𝒀𝒂𝒂-𝑹𝒂𝒎𝒂𝒅𝒉𝒂𝒏-Di-bulan-suci-yang-penuh-berkah-ini-DRW-Foundation-berkolaborasi-dengan-Relawan-Cinta-Masjid-Indonesia-dan-TP-PKK-Kab-1.jpg)Peduli Berbagi, DRW Skincare Salurkan 500 Kado Spesial Ramadhan di Kantor Kabupaten Bantul
+Peduli Berbagi, DRW Skincare Salurkan 500 Kado Spesial Ramadhan di Kantor Kabupaten Bantul
 
 Penyaluran 500 kado spesial Ramadhan DRW Skincare ini mendapat apresiasi langsung dari Bupati Bantul, Abdul Halim Muslih. Ia mengatakan bahwa kado spesial Ramadhan yang berisikan paket sembako ini sangat bermanfaat bagi penerimanya.&nbsp;
 

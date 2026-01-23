@@ -16,7 +16,7 @@ Dalam penyampaian kajiannya, Ustadz Salim menganjurkan masyarakat yang hadir ter
 
 Di acara ini, dr. Wahyu Triasmara juga turut mengungkapkan rasa terima kasihnya pada masyarakat. Beliau berharap dengan silaturahmi yang dijalin dengan masyarakat Merapi Merbabu bisa menjadi kebahagiaan Ramadhan yang berkesan.
 
-![Istiqomah! DRW Skincare Kembali Hadirkan Kado Spesial Ramadhan di Merapi Merbabu](images/2024/04/IMG_4359-1024x576.jpg)Istiqomah! DRW Skincare Kembali Hadirkan Kado Spesial Ramadhan di Merapi Merbabu
+Istiqomah! DRW Skincare Kembali Hadirkan Kado Spesial Ramadhan di Merapi Merbabu
 
 “Mudah-mudahan nanti, hadiah atau kado yang diberikan itu bukan yang utama bagi kami, tapi silaturahmi ini. Pingin bisa berbagi kebahagiaan Ramadhan ini kepada ibu bapak sekalian,” tuturnya.
 

@@ -12,11 +12,11 @@ Program HUM yang diadakan oleh DRW Skincare* *ini memberikan edukasi bagaimana c
 
 Ada sebanyak 100 paket bingkisan yang berisikan perlengkapan wanita seperti hijab, bedak tabur, sabun mandi, pembalut, *deodorant*, serta *parfum* yang di bagikan oleh DRW Skincare untuk para santriwati.
 
-![Hadiah Untuk Muslimah Santriwati](images/2024/12/donasi_ungu.jpg)Hadiah Untuk Muslimah Santriwati
+Hadiah Untuk Muslimah Santriwati
 
 Para santriwati menyambut program HUM ini dengan sangat antusias. Terlebih saat berlangsungnya *sharing session*, banyak para peserta yang memiliki minat tinggi untuk belajar lebih banyak. Peserta HUM juga bersemangat untuk lebih memperhatikan kebersihan diri. Ditambah dengan pemberian paket penunjang kebutuhan santriwati dari DRW Skincare, membuat para santriwati bersemangat untuk mencoba beragam produk yang diberikan.
 
-![Hadiah Untuk Muslimah Santriwati](images/2024/12/donasi_ungu_1.jpg)Hadiah Untuk Muslimah Santriwati
+Hadiah Untuk Muslimah Santriwati
 
 Program yang diinisiatori oleh DRW Skincare diselenggarakan ke berbagai pondok pesantren dengan menargetkan 100 peserta santriwati selama bulan suci Ramadhan. Harapan para santriwati, semoga kedepannya dapat diadakan kegiatan seperti HUM kembali.
 

@@ -10,7 +10,7 @@ Yogyakarta- Dalam rangka menyambung solidaritas, *Beauty Consultant* DRW Skincar
 
 Bersama-sama menggalang dana untuk para korban gempa bumi Maroko, *Beauty Consultant* DRW Skincare saling berkontribusi agar dapat mendonasikan sejumlah uang yang bermanfaat. Bersinergi dengan Pondok Pesantren Merapi Merbabu, kegiatan donasi yang dilakukan oleh *Beauty Consultant* DRW Skincare mampu mengumpulkan biaya sebesar Rp30 juta untuk diberikan kepada warga Marrakesh yang terdampak gempa bumi Maroko.
 
-![Beauty Consultants DRW Skincare Peduli Gempa Bumi Maroko Donasikan Rp30 Juta](images/2023/10/MRY00177.jpg)Beauty Consultants DRW Skincare Peduli Gempa Bumi Maroko Donasikan Rp30 Juta
+Beauty Consultants DRW Skincare Peduli Gempa Bumi Maroko Donasikan Rp30 Juta
 
 Gempa bumi yang menimpa Marrakesh-Safi, Maroko pada 8 September 2023 telah menewaskan ribuan penduduk setempat. Tak hanya memakan korban jiwa, infrastruktur, jalanan, jembatan, jaringan listrik, seluruh bangunan penting yang ada di Maroko runtuh akibat guncangan yang begitu dahsyat. Banyak ilmuwan yang mengatakan bahwa gempa bumi yang berpusat di Pegunungan High Atlas ini merupakan bencana yang mematikan. Disebabkan oleh pemendekan pegunungan, kompresi dan geseran antar pelat yang tidak dapat dihindari menyebabkan gempa bumi bermagnitudo 6,8 M di kawasan Marrakesh.
 

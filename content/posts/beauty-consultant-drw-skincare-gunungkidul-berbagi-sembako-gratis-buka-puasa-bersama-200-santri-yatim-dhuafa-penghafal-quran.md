@@ -12,13 +12,13 @@ Sedekah dalam paket sembako itu didistribusikan untuk golongan mustahik atau ora
 
 Hadir pada acara tersebut Perwakilan Bupati Gunungkidul, Kepala Kemenag Kabupaten Gunungkidul, *Owner* DRW Skincare, *Branch Manager* Baitulmal Munzalan Indonesia, serta para santriwan santriwati dari berbagai pondok pesantren di Gunungkidul.
 
-![Beauty Consultant DRW Skincare Gunungkidul Berbagi Sembako Gratis](images/2023/04/Artboard-8.png)Beauty Consultant DRW Skincare Gunungkidul Berbagi Sembako Gratis
+Beauty Consultant DRW Skincare Gunungkidul Berbagi Sembako Gratis
 
 *Owner* DRW Skincare, dr Wahyu Triasmara menyampaikan bahwa, pembagian sedekah paket kado sembako merupakan aktivitas rutin perusahaan saat Ramadhan.
 
 &#8220;Ramadhan kali ini untuk DIY, DRW Skincare menebarkan 6000 Paket Kado Spesial Ramadan, sementara untuk seluruh Indonesia dari Sabang sampai Merauke Alhamdulillah kita bisa menebar 55.000 paket&#8221; tuturnya.
 
-![Beauty Consultant DRW Skincare Gunungkidul Berbagi Sembako Gratis](images/2023/04/Artboard-3-7-1.png)Beauty Consultant DRW Skincare Gunungkidul Berbagi Sembako Gratis
+Beauty Consultant DRW Skincare Gunungkidul Berbagi Sembako Gratis
 
 &#8220;Dengan diselenggarakannya acara seperti ini mudah-mudahan para santriwan dan santriwati bisa semakin semangat dalam belajar dan menghafal Al-Qur&#8217;an. Semoga bisa memajukan nusa dan bangsa serta agama Islam. Kami berharap juga semakin banyak masyarakat khususnya di sekitar Gunungkidul yang mengenal DRW Skincare bukan sekedar perusahaan komersil semata, tapi juga ingin menunjukkan ke masyarakat bahwa di sini DRW Skincare berkomitmen untuk terus bisa bermanfaat bagi umat dan masyarakat di sekitar kita&#8221; jelasnya.
 

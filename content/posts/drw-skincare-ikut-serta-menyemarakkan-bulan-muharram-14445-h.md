@@ -18,7 +18,7 @@ Acara Peringatan Tahun Baru Islam pada bulan Muharram 1445 H ini menjadi kenanga
 
 Rasa syukur dan bahagia tersirat jelas di wajah para santri saat menyambut kedatangan dr. Wahyu Triasmara dan tim DRW Skincare. Belum lagi saat mereka berbaris rapi untuk mendapatkan hadiah kecil yang dibagikan dengan penuh kasih sayang. Kesemangatan anak-anak juga terekam jelas saat acara berlangsung. Bahkan raut wajah mereka tidak bisa disembunyikan saking senangnya hati saat menerima bingkisan kecil dari DRW Skincare.
 
-![Ikut Semarakkan Bulan Muharram 1445 H, DRW Skincare Ajak 300 Anak Yatim dan Dhuafa Doa Bersama](images/2023/08/MRY09573.jpg)Ikut Semarakkan Bulan Muharram 1445 H, DRW Skincare Ajak 300 Anak Yatim dan Dhuafa Doa Bersama
+Ikut Semarakkan Bulan Muharram 1445 H, DRW Skincare Ajak 300 Anak Yatim dan Dhuafa Doa Bersama
 
 Selepas acara santunan, dr. Wahyu Triasmara mengajak seluruh anak yatim dan dhuafa berdoa bersama mendoakan seluruh kebaikan serta harapan untuk bulan Muharram. Dr. Wahyu Triasmara berharap dengan adanya santunan dan doa bersama anak yatim dan dhuafa ini, semua orang yang hadir dalam acara tersebut bisa senantiasa bersyukur dengan nikmat serta karunia yang telah dititipkan Allah SWT.
 
