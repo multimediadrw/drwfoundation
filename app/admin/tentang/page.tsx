@@ -151,12 +151,12 @@ export default function AdminTentangPage() {
   }
 
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-gray-50 pb-20">
       {/* Header */}
       <div className="bg-white shadow-sm border-b sticky top-0 z-10">
         <div className="max-w-7xl mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center space-x-4">
-            <Link href="/admin" className="text-purple-600 hover:text-purple-700">
+            <Link href="/admin" className="text-purple-600 hover:text-purple-700 font-medium">
               ← Dashboard
             </Link>
             <h1 className="text-2xl font-bold text-gray-900">Edit Halaman Tentang</h1>
@@ -164,7 +164,7 @@ export default function AdminTentangPage() {
           <button
             onClick={handleSave}
             disabled={saving}
-            className="px-6 py-2 bg-purple-600 text-white rounded-lg hover:bg-purple-700 disabled:opacity-50 disabled:cursor-not-allowed flex items-center space-x-2"
+            className="px-6 py-2 bg-purple-600 text-white rounded-lg hover:bg-purple-700 disabled:opacity-50 disabled:cursor-not-allowed flex items-center space-x-2 transition-colors"
           >
             {saving ? (
               <>
@@ -181,7 +181,7 @@ export default function AdminTentangPage() {
       {/* Message */}
       {message && (
         <div className="max-w-7xl mx-auto px-4 py-4">
-          <div className={`p-4 rounded-lg ${message.includes('✅') ? 'bg-green-50 text-green-800' : 'bg-red-50 text-red-800'}`}>
+          <div className={`p-4 rounded-lg ${message.includes('✅') ? 'bg-green-50 text-green-800 border border-green-200' : 'bg-red-50 text-red-800 border border-red-200'}`}>
             {message}
           </div>
         </div>
@@ -191,8 +191,11 @@ export default function AdminTentangPage() {
       <div className="max-w-7xl mx-auto px-4 py-8 space-y-8">
         
         {/* Hero Section */}
-        <div className="bg-white rounded-lg shadow-md p-6">
-          <h2 className="text-xl font-bold text-gray-900 mb-4">Hero Section</h2>
+        <div className="bg-white rounded-xl shadow-md p-6 border border-gray-100">
+          <h2 className="text-xl font-bold text-gray-900 mb-4 flex items-center">
+            <span className="bg-purple-100 text-purple-700 rounded-lg px-3 py-1 text-sm mr-3">1</span>
+            Hero Section
+          </h2>
           <div className="space-y-4">
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-2">Title</label>
@@ -216,38 +219,44 @@ export default function AdminTentangPage() {
         </div>
 
         {/* Pendiri Section */}
-        <div className="bg-white rounded-lg shadow-md p-6">
-          <h2 className="text-xl font-bold text-gray-900 mb-4">Pendiri</h2>
+        <div className="bg-white rounded-xl shadow-md p-6 border border-gray-100">
+          <h2 className="text-xl font-bold text-gray-900 mb-4 flex items-center">
+            <span className="bg-purple-100 text-purple-700 rounded-lg px-3 py-1 text-sm mr-3">2</span>
+            Pendiri
+          </h2>
           <div className="space-y-4">
-            <div>
-              <label className="block text-sm font-medium text-gray-700 mb-2">Nama</label>
-              <input
-                type="text"
-                value={data.pendiri.nama}
-                onChange={(e) => setData({ ...data, pendiri: { ...data.pendiri, nama: e.target.value } })}
-                className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-600 focus:border-transparent"
-              />
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <div>
+                <label className="block text-sm font-medium text-gray-700 mb-2">Nama</label>
+                <input
+                  type="text"
+                  value={data.pendiri.nama}
+                  onChange={(e) => setData({ ...data, pendiri: { ...data.pendiri, nama: e.target.value } })}
+                  className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-600 focus:border-transparent"
+                />
+              </div>
+              <div>
+                <label className="block text-sm font-medium text-gray-700 mb-2">Jabatan</label>
+                <input
+                  type="text"
+                  value={data.pendiri.jabatan}
+                  onChange={(e) => setData({ ...data, pendiri: { ...data.pendiri, jabatan: e.target.value } })}
+                  className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-600 focus:border-transparent"
+                />
+              </div>
             </div>
-            <div>
-              <label className="block text-sm font-medium text-gray-700 mb-2">Jabatan</label>
-              <input
-                type="text"
-                value={data.pendiri.jabatan}
-                onChange={(e) => setData({ ...data, pendiri: { ...data.pendiri, jabatan: e.target.value } })}
-                className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-600 focus:border-transparent"
-              />
-            </div>
+            
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-2">Foto Pendiri</label>
               <div className="flex items-start space-x-4">
                 {data.pendiri.foto && (
                   <div className="relative">
-                    <img src={data.pendiri.foto} alt="Foto Pendiri" className="w-32 h-32 object-cover rounded-lg" />
+                    <img src={data.pendiri.foto} alt="Foto Pendiri" className="w-32 h-32 object-cover rounded-lg border-2 border-gray-200" />
                   </div>
                 )}
                 <div className="flex flex-col space-y-2">
-                  <label className="px-4 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700 cursor-pointer text-center">
-                    {uploading ? 'Uploading...' : '📷 Upload Foto'}
+                  <label className="px-4 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700 cursor-pointer text-center transition-colors">
+                    {uploading ? '⏳ Uploading...' : '📷 Upload Foto'}
                     <input
                       type="file"
                       accept="image/*"
@@ -259,7 +268,7 @@ export default function AdminTentangPage() {
                   {data.pendiri.foto && (
                     <button
                       onClick={handleDeleteFoto}
-                      className="px-4 py-2 bg-red-600 text-white rounded-lg hover:bg-red-700"
+                      className="px-4 py-2 bg-red-600 text-white rounded-lg hover:bg-red-700 transition-colors"
                     >
                       🗑️ Hapus Foto
                     </button>
@@ -267,9 +276,10 @@ export default function AdminTentangPage() {
                 </div>
               </div>
               {data.pendiri.foto && (
-                <p className="text-sm text-gray-500 mt-2">URL: {data.pendiri.foto}</p>
+                <p className="text-xs text-gray-500 mt-2 font-mono bg-gray-50 p-2 rounded">URL: {data.pendiri.foto}</p>
               )}
             </div>
+            
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-2">Deskripsi Paragraf 1</label>
               <textarea
@@ -283,6 +293,7 @@ export default function AdminTentangPage() {
                 className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-600 focus:border-transparent"
               />
             </div>
+            
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-2">Deskripsi Paragraf 2</label>
               <textarea
@@ -296,6 +307,7 @@ export default function AdminTentangPage() {
                 className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-600 focus:border-transparent"
               />
             </div>
+            
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-2">Quote</label>
               <textarea
@@ -303,14 +315,18 @@ export default function AdminTentangPage() {
                 onChange={(e) => setData({ ...data, pendiri: { ...data.pendiri, quote: e.target.value } })}
                 rows={2}
                 className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-600 focus:border-transparent"
+                placeholder="Quote inspiratif dari pendiri..."
               />
             </div>
           </div>
         </div>
 
         {/* Visi & Misi */}
-        <div className="bg-white rounded-lg shadow-md p-6">
-          <h2 className="text-xl font-bold text-gray-900 mb-4">Visi & Misi</h2>
+        <div className="bg-white rounded-xl shadow-md p-6 border border-gray-100">
+          <h2 className="text-xl font-bold text-gray-900 mb-4 flex items-center">
+            <span className="bg-purple-100 text-purple-700 rounded-lg px-3 py-1 text-sm mr-3">3</span>
+            Visi & Misi
+          </h2>
           <div className="space-y-4">
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-2">Visi</label>
@@ -322,64 +338,123 @@ export default function AdminTentangPage() {
               />
             </div>
             <div>
-              <label className="block text-sm font-medium text-gray-700 mb-2">Misi (satu per baris)</label>
-              {data.misi.map((item, index) => (
-                <div key={index} className="mb-2">
-                  <input
-                    type="text"
-                    value={item}
-                    onChange={(e) => {
-                      const newMisi = [...data.misi]
-                      newMisi[index] = e.target.value
-                      setData({ ...data, misi: newMisi })
-                    }}
-                    className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-600 focus:border-transparent"
-                  />
-                </div>
-              ))}
+              <label className="block text-sm font-medium text-gray-700 mb-2">Misi (5 poin)</label>
+              <div className="space-y-2">
+                {data.misi.map((item, index) => (
+                  <div key={index} className="flex items-start space-x-2">
+                    <span className="text-purple-600 font-bold mt-2">{index + 1}.</span>
+                    <input
+                      type="text"
+                      value={item}
+                      onChange={(e) => {
+                        const newMisi = [...data.misi]
+                        newMisi[index] = e.target.value
+                        setData({ ...data, misi: newMisi })
+                      }}
+                      className="flex-1 px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-600 focus:border-transparent"
+                      placeholder={`Misi ${index + 1}`}
+                    />
+                  </div>
+                ))}
+              </div>
             </div>
           </div>
         </div>
 
         {/* Sejarah */}
-        <div className="bg-white rounded-lg shadow-md p-6">
-          <h2 className="text-xl font-bold text-gray-900 mb-4">Sejarah</h2>
+        <div className="bg-white rounded-xl shadow-md p-6 border border-gray-100">
+          <h2 className="text-xl font-bold text-gray-900 mb-4 flex items-center">
+            <span className="bg-purple-100 text-purple-700 rounded-lg px-3 py-1 text-sm mr-3">4</span>
+            Sejarah
+          </h2>
           <textarea
             value={data.sejarah}
             onChange={(e) => setData({ ...data, sejarah: e.target.value })}
             rows={4}
             className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-600 focus:border-transparent"
+            placeholder="Ceritakan sejarah singkat DRW Foundation..."
           />
         </div>
 
+        {/* Unit Bisnis DRW Corp */}
+        <div className="bg-white rounded-xl shadow-md p-6 border border-gray-100">
+          <h2 className="text-xl font-bold text-gray-900 mb-4 flex items-center">
+            <span className="bg-purple-100 text-purple-700 rounded-lg px-3 py-1 text-sm mr-3">5</span>
+            Unit Bisnis DRW Corp
+          </h2>
+          <div className="space-y-3">
+            {data.unitBisnis.map((unit, index) => (
+              <div key={index} className="grid grid-cols-1 md:grid-cols-3 gap-3 p-4 bg-gray-50 rounded-lg border border-gray-200">
+                <div>
+                  <label className="block text-xs font-medium text-gray-600 mb-1">Kategori</label>
+                  <input
+                    type="text"
+                    value={unit.kategori}
+                    onChange={(e) => {
+                      const newUnitBisnis = [...data.unitBisnis]
+                      newUnitBisnis[index].kategori = e.target.value
+                      setData({ ...data, unitBisnis: newUnitBisnis })
+                    }}
+                    className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-600 focus:border-transparent text-sm"
+                    placeholder="Contoh: Skincare"
+                  />
+                </div>
+                <div className="md:col-span-2">
+                  <label className="block text-xs font-medium text-gray-600 mb-1">Deskripsi</label>
+                  <input
+                    type="text"
+                    value={unit.deskripsi}
+                    onChange={(e) => {
+                      const newUnitBisnis = [...data.unitBisnis]
+                      newUnitBisnis[index].deskripsi = e.target.value
+                      setData({ ...data, unitBisnis: newUnitBisnis })
+                    }}
+                    className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-600 focus:border-transparent text-sm"
+                    placeholder="Contoh: DRW Skincare, DRW For Man, DRW Kids"
+                  />
+                </div>
+              </div>
+            ))}
+          </div>
+          <p className="text-xs text-gray-500 mt-3">
+            💡 Tip: Pisahkan nama unit bisnis dengan koma (,) untuk tampilan yang rapi
+          </p>
+        </div>
+
         {/* Pencapaian */}
-        <div className="bg-white rounded-lg shadow-md p-6">
-          <h2 className="text-xl font-bold text-gray-900 mb-4">Pencapaian</h2>
+        <div className="bg-white rounded-xl shadow-md p-6 border border-gray-100">
+          <h2 className="text-xl font-bold text-gray-900 mb-4 flex items-center">
+            <span className="bg-purple-100 text-purple-700 rounded-lg px-3 py-1 text-sm mr-3">6</span>
+            Pencapaian Kami
+          </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             {data.pencapaian.map((item, index) => (
-              <div key={index} className="space-y-2">
-                <input
-                  type="text"
-                  placeholder="Angka"
-                  value={item.angka}
-                  onChange={(e) => {
-                    const newPencapaian = [...data.pencapaian]
-                    newPencapaian[index].angka = e.target.value
-                    setData({ ...data, pencapaian: newPencapaian })
-                  }}
-                  className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-600 focus:border-transparent"
-                />
-                <input
-                  type="text"
-                  placeholder="Label"
-                  value={item.label}
-                  onChange={(e) => {
-                    const newPencapaian = [...data.pencapaian]
-                    newPencapaian[index].label = e.target.value
-                    setData({ ...data, pencapaian: newPencapaian })
-                  }}
-                  className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-600 focus:border-transparent"
-                />
+              <div key={index} className="p-4 bg-gradient-to-br from-purple-50 to-pink-50 rounded-lg border border-purple-200">
+                <label className="block text-xs font-medium text-gray-600 mb-2">Pencapaian {index + 1}</label>
+                <div className="space-y-2">
+                  <input
+                    type="text"
+                    placeholder="Angka (Contoh: 500+)"
+                    value={item.angka}
+                    onChange={(e) => {
+                      const newPencapaian = [...data.pencapaian]
+                      newPencapaian[index].angka = e.target.value
+                      setData({ ...data, pencapaian: newPencapaian })
+                    }}
+                    className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-600 focus:border-transparent font-bold text-lg"
+                  />
+                  <input
+                    type="text"
+                    placeholder="Label (Contoh: Santri Tahfidz)"
+                    value={item.label}
+                    onChange={(e) => {
+                      const newPencapaian = [...data.pencapaian]
+                      newPencapaian[index].label = e.target.value
+                      setData({ ...data, pencapaian: newPencapaian })
+                    }}
+                    className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-600 focus:border-transparent"
+                  />
+                </div>
               </div>
             ))}
           </div>
@@ -388,13 +463,13 @@ export default function AdminTentangPage() {
       </div>
 
       {/* Sticky Save Button Mobile */}
-      <div className="fixed bottom-0 left-0 right-0 bg-white border-t p-4 md:hidden">
+      <div className="fixed bottom-0 left-0 right-0 bg-white border-t p-4 md:hidden shadow-lg">
         <button
           onClick={handleSave}
           disabled={saving}
-          className="w-full px-6 py-3 bg-purple-600 text-white rounded-lg hover:bg-purple-700 disabled:opacity-50 disabled:cursor-not-allowed"
+          className="w-full px-6 py-3 bg-purple-600 text-white rounded-lg hover:bg-purple-700 disabled:opacity-50 disabled:cursor-not-allowed font-medium transition-colors"
         >
-          {saving ? 'Menyimpan...' : '💾 Simpan'}
+          {saving ? '⏳ Menyimpan...' : '💾 Simpan Perubahan'}
         </button>
       </div>
     </div>
