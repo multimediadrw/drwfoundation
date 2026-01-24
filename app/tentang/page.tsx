@@ -143,14 +143,18 @@ export default async function TentangPage() {
               <div className="bg-gradient-to-br from-purple-100 to-pink-100 rounded-3xl p-8 shadow-lg sticky top-24">
                 <div className="flex flex-col items-center text-center">
                   {data.pendiri.foto && data.pendiri.foto !== '/images/founder-placeholder.png' ? (
-                    <img 
-                      src={data.pendiri.foto} 
-                      alt={data.pendiri.nama}
-                      className="w-32 h-32 rounded-full object-cover mb-6 shadow-md"
-                    />
+                    <div className="relative mb-6">
+                      <div className="w-48 h-48 rounded-full overflow-hidden border-4 border-white shadow-xl">
+                        <img 
+                          src={data.pendiri.foto} 
+                          alt={data.pendiri.nama}
+                          className="w-full h-full object-cover"
+                        />
+                      </div>
+                    </div>
                   ) : (
-                    <div className="w-32 h-32 bg-white rounded-full flex items-center justify-center mb-6 shadow-md">
-                      <User className="w-16 h-16 text-purple-600" />
+                    <div className="w-48 h-48 bg-white rounded-full flex items-center justify-center mb-6 shadow-xl border-4 border-white">
+                      <User className="w-24 h-24 text-purple-600" />
                     </div>
                   )}
                   <h3 className="text-2xl font-bold text-purple-700 mb-2">
