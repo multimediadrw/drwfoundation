@@ -67,9 +67,9 @@ export default function Footer() {
           <div>
             <h3 className="text-lg font-semibold mb-4">Kontak</h3>
             <ul className="space-y-2 text-gray-400 text-sm">
-              <li>Email: info@drwfoundation.com</li>
-              <li>Telp: (0274) xxx-xxxx</li>
-              <li>Yogyakarta, Indonesia</li>
+              <li>Instagram: @drwfoundation</li>
+              <li>TikTok: @drwfoundation</li>
+              <li>YouTube: @drwfoundation</li>
             </ul>
             
             {/* Social Media */}
