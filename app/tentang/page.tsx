@@ -144,11 +144,11 @@ export default async function TentangPage() {
                 <div className="flex flex-col items-center text-center">
                   {data.pendiri.foto && data.pendiri.foto !== '/images/founder-placeholder.png' ? (
                     <div className="relative mb-6">
-                      <div className="w-48 h-48 rounded-full overflow-hidden border-4 border-white shadow-xl">
+                      <div className="w-48 h-48 rounded-full overflow-hidden border-4 border-white shadow-xl bg-gradient-to-br from-purple-50 to-pink-50">
                         <img 
                           src={data.pendiri.foto} 
                           alt={data.pendiri.nama}
-                          className="w-full h-full object-cover"
+                          className="w-full h-full object-contain scale-90"
                         />
                       </div>
                     </div>
