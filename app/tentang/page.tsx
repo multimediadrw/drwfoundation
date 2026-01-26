@@ -217,7 +217,7 @@ export default async function TentangPage() {
           </div>
 
           {/* Pencapaian */}
-          <div className="bg-gradient-to-br from-purple-700 to-purple-600 rounded-2xl shadow-xl p-8 md:p-12 text-white">
+          <div className="bg-gradient-to-br from-purple-700 to-purple-600 rounded-2xl shadow-xl p-8 md:p-12 text-white mb-12">
             <h2 className="text-3xl font-bold mb-8 text-center">Pencapaian Kami</h2>
             <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
               {data.pencapaian.map((item, index) => (
@@ -226,6 +226,64 @@ export default async function TentangPage() {
                   <div className="text-purple-100">{item.label}</div>
                 </div>
               ))}
+            </div>
+          </div>
+
+          {/* Apa Kata Mereka - Testimonials */}
+          <div className="bg-white rounded-2xl shadow-md p-8 md:p-12">
+            <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">Apa Kata Mereka</h2>
+            <p className="text-gray-600 text-center mb-12 max-w-2xl mx-auto">
+              Testimoni dari para penerima manfaat yang telah merasakan langsung dampak program DRW Foundation
+            </p>
+            
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+              {/* Testimonial 1 - Wali Murid */}
+              <div className="bg-gradient-to-br from-purple-50 to-pink-50 rounded-xl p-6 shadow-sm hover:shadow-md transition-shadow">
+                <div className="flex items-center mb-4">
+                  <div className="w-12 h-12 bg-purple-600 rounded-full flex items-center justify-center text-white font-bold text-xl">
+                    W
+                  </div>
+                  <div className="ml-4">
+                    <h4 className="font-semibold text-gray-900">Wali Murid</h4>
+                    <p className="text-sm text-gray-600">Penerima Donasi Seragam</p>
+                  </div>
+                </div>
+                <p className="text-gray-700 italic leading-relaxed">
+                  "Terimakasih yang sebesar besarnya kepada DRW Foundation atas bantuan seragam gratisnya. Semoga selalu bermanfaat untuk kedepannya."
+                </p>
+              </div>
+
+              {/* Testimonial 2 - Santri Tahfidz */}
+              <div className="bg-gradient-to-br from-purple-50 to-pink-50 rounded-xl p-6 shadow-sm hover:shadow-md transition-shadow">
+                <div className="flex items-center mb-4">
+                  <div className="w-12 h-12 bg-purple-600 rounded-full flex items-center justify-center text-white font-bold text-xl">
+                    A
+                  </div>
+                  <div className="ml-4">
+                    <h4 className="font-semibold text-gray-900">Ahmad</h4>
+                    <p className="text-sm text-gray-600">Santri Beasiswa Tahfidz</p>
+                  </div>
+                </div>
+                <p className="text-gray-700 italic leading-relaxed">
+                  "Alhamdulillah, berkat beasiswa dari DRW Foundation saya bisa fokus menghafal Al-Quran tanpa khawatir biaya. Semoga menjadi amal jariyah."
+                </p>
+              </div>
+
+              {/* Testimonial 3 - Pengurus Masjid */}
+              <div className="bg-gradient-to-br from-purple-50 to-pink-50 rounded-xl p-6 shadow-sm hover:shadow-md transition-shadow">
+                <div className="flex items-center mb-4">
+                  <div className="w-12 h-12 bg-purple-600 rounded-full flex items-center justify-center text-white font-bold text-xl">
+                    S
+                  </div>
+                  <div className="ml-4">
+                    <h4 className="font-semibold text-gray-900">Pak Slamet</h4>
+                    <p className="text-sm text-gray-600">Pengurus Masjid</p>
+                  </div>
+                </div>
+                <p className="text-gray-700 italic leading-relaxed">
+                  "Bantuan renovasi masjid dari DRW Foundation sangat membantu jamaah kami. Masjid sekarang lebih nyaman untuk beribadah. Jazakumullah khairan."
+                </p>
+              </div>
             </div>
           </div>
 
