@@ -48,37 +48,60 @@ export async function POST(request: NextRequest) {
       )
     }
 
-    // Call OpenAI API
-    const response = await fetch('https://api.openai.com/v1/chat/completions', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        'Authorization': `Bearer ${OPENAI_API_KEY}`,
-      },
-      body: JSON.stringify({
-        model: 'gpt-4o-mini',
-        messages: [
-          { role: 'system', content: SYSTEM_PROMPT },
-          ...messages
-        ],
-        temperature: 0.7,
-        max_tokens: 1000,
-      }),
-    })
+    // Call OpenAI API with fallback models
+    const models = ['gpt-4o-mini', 'gpt-3.5-turbo', 'gpt-4-turbo-preview']
+    let lastError = null
+    
+    for (const model of models) {
+      try {
+        const response = await fetch('https://api.openai.com/v1/chat/completions', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+            'Authorization': `Bearer ${OPENAI_API_KEY}`,
+          },
+          body: JSON.stringify({
+            model,
+            messages: [
+              { role: 'system', content: SYSTEM_PROMPT },
+              ...messages
+            ],
+            temperature: 0.7,
+            max_tokens: 1000,
+          }),
+        })
 
-    if (!response.ok) {
-      const error = await response.json()
-      console.error('OpenAI API error:', error)
-      return NextResponse.json(
-        { error: 'Failed to get AI response' },
-        { status: response.status }
-      )
+        if (response.ok) {
+          const data = await response.json()
+          const aiMessage = data.choices[0].message.content
+          return NextResponse.json({ message: aiMessage })
+        }
+        
+        const error = await response.json()
+        lastError = error
+        console.error(`OpenAI API error with model ${model}:`, error)
+        
+        // If it's not a model error, don't try other models
+        if (response.status !== 404 && response.status !== 400) {
+          break
+        }
+      } catch (err) {
+        console.error(`Error trying model ${model}:`, err)
+        lastError = err
+      }
     }
+    
+    // If all models failed
+    console.error('All models failed. Last error:', lastError)
+    return NextResponse.json(
+      { 
+        error: 'Failed to get AI response. Please check API key and try again.',
+        details: lastError 
+      },
+      { status: 500 }
+    )
 
-    const data = await response.json()
-    const aiMessage = data.choices[0].message.content
-
-    return NextResponse.json({ message: aiMessage })
+    // This code is now handled in the loop above
   } catch (error) {
     console.error('AI Assistant error:', error)
     return NextResponse.json(
