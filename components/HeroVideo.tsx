@@ -1,10 +1,47 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useRef } from 'react'
 import Link from 'next/link'
 
+const videos = [
+  '/videos/v4.mp4',
+  '/videos/Vidio1rct.mp4',
+  '/videos/VID-20221202-WA0044.mp4'
+]
+
 export default function HeroVideo() {
+  const [currentVideoIndex, setCurrentVideoIndex] = useState(0)
   const [isVideoLoaded, setIsVideoLoaded] = useState(false)
+  const [isTransitioning, setIsTransitioning] = useState(false)
+  const videoRef = useRef<HTMLVideoElement>(null)
+
+  useEffect(() => {
+    const video = videoRef.current
+    if (!video) return
+
+    const handleVideoEnd = () => {
+      // Start fade out transition
+      setIsTransitioning(true)
+      
+      // After fade out, switch to next video
+      setTimeout(() => {
+        setCurrentVideoIndex((prev) => (prev + 1) % videos.length)
+        setIsTransitioning(false)
+      }, 500) // 500ms fade out duration
+    }
+
+    video.addEventListener('ended', handleVideoEnd)
+    return () => video.removeEventListener('ended', handleVideoEnd)
+  }, [])
+
+  useEffect(() => {
+    // Reset video when index changes
+    const video = videoRef.current
+    if (video) {
+      video.load()
+      video.play().catch(err => console.log('Video play error:', err))
+    }
+  }, [currentVideoIndex])
 
   return (
     <section className="relative h-screen min-h-[600px] flex items-center justify-center overflow-hidden">
@@ -13,20 +50,18 @@ export default function HeroVideo() {
         {/* Fallback gradient background */}
         <div className="absolute inset-0 bg-gradient-to-br from-purple-900 via-purple-700 to-pink-600"></div>
         
-        {/* Video element - replace with actual video URL */}
+        {/* Video element - rotates between 3 videos */}
         <video
+          ref={videoRef}
           autoPlay
-          loop
           muted
           playsInline
           onLoadedData={() => setIsVideoLoaded(true)}
-          className={`absolute inset-0 w-full h-full object-cover transition-opacity duration-1000 ${
-            isVideoLoaded ? 'opacity-40' : 'opacity-0'
+          className={`absolute inset-0 w-full h-full object-cover transition-opacity duration-500 ${
+            isVideoLoaded && !isTransitioning ? 'opacity-40' : 'opacity-0'
           }`}
         >
-          <source src="/videos/v4.mp4" type="video/mp4" />
-          <source src="/videos/Vidio1rct.mp4" type="video/mp4" />
-          <source src="/videos/VID-20221202-WA0044.mp4" type="video/mp4" />
+          <source src={videos[currentVideoIndex]} type="video/mp4" />
         </video>
 
         {/* Overlay */}
@@ -131,6 +166,28 @@ export default function HeroVideo() {
             </div>
           </div>
         </div>
+      </div>
+
+      {/* Video Indicator Dots */}
+      <div className="absolute bottom-24 left-1/2 -translate-x-1/2 z-10 flex gap-2">
+        {videos.map((_, index) => (
+          <button
+            key={index}
+            onClick={() => {
+              setIsTransitioning(true)
+              setTimeout(() => {
+                setCurrentVideoIndex(index)
+                setIsTransitioning(false)
+              }, 500)
+            }}
+            className={`w-2 h-2 rounded-full transition-all duration-300 ${
+              index === currentVideoIndex 
+                ? 'bg-yellow-400 w-8' 
+                : 'bg-white/50 hover:bg-white/80'
+            }`}
+            aria-label={`Switch to video ${index + 1}`}
+          />
+        ))}
       </div>
 
       {/* Scroll Indicator */}
