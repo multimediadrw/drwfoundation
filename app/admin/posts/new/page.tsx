@@ -7,6 +7,7 @@ import Link from 'next/link'
 import dynamic from 'next/dynamic'
 import EditorHelper from '@/components/EditorHelper'
 import ArticlePreview from '@/components/ArticlePreview'
+import AIAssistant from '@/components/AIAssistant'
 
 // Dynamically import TipTap editor (client-side only)
 const TipTapEditor = dynamic(() => import('@/components/TipTapEditor'), {
@@ -210,7 +211,7 @@ ${contentMarkdownEn || contentMarkdown}
               <h3 className="font-bold text-purple-900 mb-1">Tips Penulisan Modern</h3>
               <p className="text-sm text-gray-700">
                 Gunakan <strong>paragraf pendek (max 3 kalimat)</strong>, <strong>H2 untuk section utama</strong>, 
-                dan <strong>bullet points untuk detail</strong>. Klik tombol 💡 di pojok kanan bawah untuk template & panduan lengkap!
+                dan <strong>bullet points untuk detail</strong>. Klik tombol <strong>💡 Template</strong> atau <strong>🤖 AI Assistant</strong> di pojok kanan bawah untuk bantuan!
               </p>
             </div>
           </div>
@@ -394,6 +395,9 @@ ${contentMarkdownEn || contentMarkdown}
 
       {/* Editor Helper - Floating Button */}
       {!showPreview && <EditorHelper onInsertTemplate={handleInsertTemplate} />}
+      
+      {/* AI Assistant - Floating Button */}
+      {!showPreview && <AIAssistant />}
     </div>
   )
 }
