@@ -2,7 +2,7 @@ import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 import type { Metadata } from 'next'
 import { getLaporanFromGitHub } from '@/lib/github-storage'
-import { Download } from 'lucide-react'
+import DownloadButton from '@/components/DownloadButton'
 
 export const metadata: Metadata = {
   title: 'Laporan | DRW Foundation',
@@ -58,13 +58,7 @@ export default async function LaporanPage() {
             </div>
             
             {/* PDF Download Button */}
-            <button 
-              onClick={() => alert('Fitur download PDF akan segera tersedia')}
-              className="flex items-center gap-3 px-8 py-4 bg-white text-purple-700 font-bold rounded-xl hover:bg-gray-100 transition-all shadow-lg hover:shadow-xl flex-shrink-0"
-            >
-              <Download className="w-6 h-6" />
-              <span>Unduh Laporan PDF</span>
-            </button>
+            <DownloadButton />
           </div>
         </div>
       </section>
