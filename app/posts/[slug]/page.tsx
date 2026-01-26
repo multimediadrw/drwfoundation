@@ -142,15 +142,24 @@ export default function Post() {
           {/* Content - Justified, Academic Style */}
           <div 
             className="prose prose-lg max-w-none
-              prose-headings:font-bold prose-headings:text-gray-900 prose-headings:mb-4 prose-headings:mt-8
-              prose-p:text-justify prose-p:leading-relaxed prose-p:mb-6 prose-p:text-gray-800
-              prose-a:text-purple-600 prose-a:no-underline hover:prose-a:underline
-              prose-strong:font-bold prose-strong:text-gray-900
-              prose-ul:list-disc prose-ul:ml-8 prose-ul:mb-6
-              prose-ol:list-decimal prose-ol:ml-8 prose-ol:mb-6
-              prose-li:mb-2 prose-li:text-gray-800
+              prose-headings:font-bold prose-headings:text-gray-900 prose-headings:mb-4 prose-headings:mt-8 prose-headings:normal-case
+              prose-h1:text-2xl prose-h1:font-bold
+              prose-h2:text-xl prose-h2:font-bold
+              prose-h3:text-lg prose-h3:font-semibold
+              prose-h4:text-base prose-h4:font-semibold
+              prose-p:text-justify prose-p:leading-relaxed prose-p:mb-6 prose-p:text-gray-800 prose-p:font-normal
+              prose-a:text-purple-600 prose-a:no-underline hover:prose-a:underline prose-a:font-normal
+              prose-strong:font-semibold prose-strong:text-gray-900
+              prose-em:font-normal prose-em:italic prose-em:text-gray-800
+              prose-ul:list-disc prose-ul:ml-8 prose-ul:mb-6 prose-ul:space-y-2
+              prose-ol:list-decimal prose-ol:ml-8 prose-ol:mb-6 prose-ol:space-y-2
+              prose-li:mb-2 prose-li:text-gray-800 prose-li:font-normal prose-li:leading-relaxed
               prose-blockquote:border-l-4 prose-blockquote:border-purple-600 prose-blockquote:pl-6 prose-blockquote:italic prose-blockquote:text-gray-700
-              prose-img:rounded-lg prose-img:shadow-lg prose-img:mx-auto prose-img:my-8"
+              prose-img:rounded-lg prose-img:shadow-lg prose-img:mx-auto prose-img:my-8
+              [&_p]:font-normal [&_p]:text-base
+              [&_strong]:font-semibold [&_strong]:text-gray-900
+              [&_em]:font-normal [&_em]:not-italic
+              [&_li]:font-normal [&_li]:text-base"
             dangerouslySetInnerHTML={{ __html: currentContent }}
           />
           
