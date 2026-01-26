@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server'
 
-const OPENAI_API_KEY = process.env.OPENAI_API_KEY
+const GEMINI_API_KEY = process.env.GEMINI_API_KEY
 
 const SYSTEM_PROMPT = `Kamu adalah AI Assistant untuk DRW Foundation CMS (Content Management System). Tugasmu adalah membantu admin dalam menulis dan mengelola artikel berita yayasan.
 
@@ -41,71 +41,73 @@ export async function POST(request: NextRequest) {
   try {
     const { messages } = await request.json()
 
-    if (!OPENAI_API_KEY) {
+    if (!GEMINI_API_KEY) {
       return NextResponse.json(
-        { error: 'OpenAI API key not configured' },
+        { error: 'Gemini API key not configured' },
         { status: 500 }
       )
     }
 
-    // Call OpenAI API with fallback models
-    const models = ['gpt-4o-mini', 'gpt-3.5-turbo', 'gpt-4-turbo-preview']
-    let lastError = null
-    
-    for (const model of models) {
-      try {
-        const response = await fetch('https://api.openai.com/v1/chat/completions', {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json',
-            'Authorization': `Bearer ${OPENAI_API_KEY}`,
-          },
-          body: JSON.stringify({
-            model,
-            messages: [
-              { role: 'system', content: SYSTEM_PROMPT },
-              ...messages
-            ],
-            temperature: 0.7,
-            max_tokens: 1000,
-          }),
-        })
+    // Convert messages to Gemini format
+    // Gemini uses "parts" with "text" instead of "content"
+    const geminiMessages = messages.map((msg: any) => ({
+      role: msg.role === 'assistant' ? 'model' : 'user',
+      parts: [{ text: msg.content }]
+    }))
 
-        if (response.ok) {
-          const data = await response.json()
-          const aiMessage = data.choices[0].message.content
-          return NextResponse.json({ message: aiMessage })
-        }
-        
-        const error = await response.json()
-        lastError = error
-        console.error(`OpenAI API error with model ${model}:`, error)
-        
-        // If it's not a model error, don't try other models
-        if (response.status !== 404 && response.status !== 400) {
-          break
-        }
-      } catch (err) {
-        console.error(`Error trying model ${model}:`, err)
-        lastError = err
-      }
-    }
-    
-    // If all models failed
-    console.error('All models failed. Last error:', lastError)
-    return NextResponse.json(
-      { 
-        error: 'Failed to get AI response. Please check API key and try again.',
-        details: lastError 
+    // Add system prompt as first user message
+    const fullMessages = [
+      {
+        role: 'user',
+        parts: [{ text: SYSTEM_PROMPT }]
       },
-      { status: 500 }
+      {
+        role: 'model',
+        parts: [{ text: 'Understood. I will act as an AI Assistant for DRW Foundation CMS with all the guidelines provided.' }]
+      },
+      ...geminiMessages
+    ]
+
+    // Call Gemini API
+    const response = await fetch(
+      `https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=${GEMINI_API_KEY}`,
+      {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          contents: fullMessages,
+          generationConfig: {
+            temperature: 0.7,
+            maxOutputTokens: 1000,
+          },
+        }),
+      }
     )
 
-    // This code is now handled in the loop above
+    if (!response.ok) {
+      const error = await response.json()
+      console.error('Gemini API error:', error)
+      return NextResponse.json(
+        { 
+          error: 'Failed to get AI response from Gemini',
+          details: error 
+        },
+        { status: response.status }
+      )
+    }
+
+    const data = await response.json()
+    
+    // Extract text from Gemini response
+    const aiMessage = data.candidates?.[0]?.content?.parts?.[0]?.text || 'No response from AI'
+
+    return NextResponse.json({ message: aiMessage })
   } catch (error) {
     console.error('AI Assistant error:', error)
     return NextResponse.json(
-      { error: 'Internal server error' },
+      { error: 'Internal server error', details: String(error) },
       { status: 500 }
     )
   }
