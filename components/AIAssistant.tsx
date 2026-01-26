@@ -42,6 +42,7 @@ const QUICK_PROMPTS = [
 
 export default function AIAssistant() {
   const [isOpen, setIsOpen] = useState(false)
+  const [showQuickPrompts, setShowQuickPrompts] = useState(false)
   const [messages, setMessages] = useState<Message[]>([
     {
       role: 'assistant',
@@ -206,22 +207,36 @@ export default function AIAssistant() {
             <div ref={messagesEndRef} />
           </div>
 
-          {/* Quick Prompts */}
-          <div className="border-t border-gray-200 p-3 bg-white">
-            <p className="text-xs font-semibold text-gray-600 mb-2">💡 Quick Prompts:</p>
-            <div className="grid grid-cols-3 gap-2">
-              {QUICK_PROMPTS.map((prompt, index) => (
-                <button
-                  key={index}
-                  onClick={() => handleQuickPrompt(prompt.prompt)}
-                  className="text-xs bg-gradient-to-r from-blue-50 to-cyan-50 hover:from-blue-100 hover:to-cyan-100 border border-blue-200 rounded-lg p-2 transition text-left"
-                  title={prompt.prompt}
-                >
-                  <div className="font-semibold text-blue-900 mb-1">{prompt.icon}</div>
-                  <div className="text-gray-700 leading-tight">{prompt.title}</div>
-                </button>
-              ))}
-            </div>
+          {/* Quick Prompts - Collapsible */}
+          <div className="border-t border-gray-200 bg-white">
+            <button
+              onClick={() => setShowQuickPrompts(!showQuickPrompts)}
+              className="w-full p-3 flex items-center justify-between hover:bg-gray-50 transition"
+            >
+              <p className="text-xs font-semibold text-gray-600">💡 Quick Prompts</p>
+              <span className="text-gray-400 text-sm">{showQuickPrompts ? '▼' : '▶'}</span>
+            </button>
+            
+            {showQuickPrompts && (
+              <div className="px-3 pb-3">
+                <div className="grid grid-cols-3 gap-2">
+                  {QUICK_PROMPTS.map((prompt, index) => (
+                    <button
+                      key={index}
+                      onClick={() => {
+                        handleQuickPrompt(prompt.prompt)
+                        setShowQuickPrompts(false)
+                      }}
+                      className="text-xs bg-gradient-to-r from-blue-50 to-cyan-50 hover:from-blue-100 hover:to-cyan-100 border border-blue-200 rounded-lg p-2 transition text-left"
+                      title={prompt.prompt}
+                    >
+                      <div className="font-semibold text-blue-900 mb-1">{prompt.icon}</div>
+                      <div className="text-gray-700 leading-tight">{prompt.title}</div>
+                    </button>
+                  ))}
+                </div>
+              </div>
+            )}
           </div>
 
           {/* Input */}
