@@ -6,7 +6,7 @@ import Footer from '@/components/Footer';
 import HeroVideo from '@/components/HeroVideo';
 import ImpactCounter from '@/components/ImpactCounter';
 import ProgramCarousel from '@/components/ProgramCarousel';
-import TransparencySection from '@/components/TransparencySection';
+
 import FloatingCTA from '@/components/FloatingCTA';
 import TestimonialCarousel from '@/components/TestimonialCarousel';
 import ScrollReveal from '@/components/ScrollReveal';
@@ -111,8 +111,7 @@ export default async function Home() {
         {/* Program Carousel Section */}
         <ProgramCarousel />
 
-        {/* Transparency Report Section */}
-        <TransparencySection />
+
 
         {/* Berita Terbaru with Animations */}
         <section className="py-20 bg-gradient-to-b from-gray-50 to-white">
