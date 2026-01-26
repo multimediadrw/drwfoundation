@@ -31,7 +31,7 @@ export default function FloatingCTA() {
         {isExpanded && (
           <div className="flex flex-col gap-2 animate-slide-up">
             <Link
-              href="https://wa.me/6281620026"
+              href="https://wa.me/62816200261"
               target="_blank"
               rel="noopener noreferrer"
               className="group flex items-center gap-3 bg-green-500 hover:bg-green-600 text-white px-5 py-3 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105"
@@ -57,7 +57,7 @@ export default function FloatingCTA() {
             </Link>
 
             <Link
-              href="tel:+6281620026"
+              href="tel:+62816200261"
               className="group flex items-center gap-3 bg-purple-500 hover:bg-purple-600 text-white px-5 py-3 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105"
             >
               <span className="font-semibold text-sm">Telepon</span>
