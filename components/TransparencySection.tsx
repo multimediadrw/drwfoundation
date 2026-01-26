@@ -1,6 +1,6 @@
 'use client'
 
-import { useState } from 'react'
+import React, { useState } from 'react'
 import Link from 'next/link'
 
 interface FundAllocation {
@@ -97,7 +97,7 @@ export default function TransparencySection() {
                             className="transition-all duration-500"
                           />
                         ]
-                      }, [] as JSX.Element[])}
+                      }, [] as React.ReactElement[])}
                     </svg>
                     <div className="absolute inset-0 flex flex-col items-center justify-center">
                       <div className="text-5xl font-bold text-gray-900">Rp 10M</div>
