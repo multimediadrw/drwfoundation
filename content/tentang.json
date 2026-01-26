@@ -1,27 +1,27 @@
 {
   "hero": {
-    "title": "Tentang Kami",
-    "subtitle": "Yayasan sosial dan kemanusiaan yang fokus pada pendidikan, kesehatan, dan pemberdayaan masyarakat Indonesia"
+    "title": "Jembatan Kebaikan untuk Sesama",
+    "subtitle": "Menjadi perpanjangan tangan DRW Corp dalam mengelola dana CSR secara akuntabel, transparan, dan berdampak luas bagi masyarakat Indonesia."
   },
   "pendiri": {
     "nama": "dr. Wahyu Triasmara",
-    "jabatan": "Founder & CEO",
+    "jabatan": "Founder & Visionary Leader",
     "foto": "/uploads/1769219873570-drwahyu.png",
     "deskripsi": [
-      "Memulai bisnis DRW Skincare dari minus, dr Wahyu Triasmara bertekad untuk membuat bisnis yang bisa sebanyak-banyaknya memberikan manfaat khususnya dalam pembukaan lapangan pekerjaan.",
-      "DRW Foundation yang didirikan dr Wahyu Triasmara hadir sebagai pengelola dana CSR unit-unit bisnis DRW Corp di berbagai bidang diantaranya skincare, manufaktur, travel, transportasi, hospitality, kesehatan dan food beverage."
+      "DRW Foundation adalah manifestasi dari visi dr. Wahyu Triasmara untuk membangun bisnis yang tidak hanya bertumbuh, tetapi juga menumbuhkan. Sebagai perpanjangan tangan dari DRW Corp, kami berkomitmen untuk mengelola dana Corporate Social Responsibility (CSR) dengan integritas tertinggi.",
+      "Kami percaya bahwa setiap entitas bisnis memiliki tanggung jawab sosial. DRW Foundation hadir untuk memastikan tanggung jawab tersebut tersalurkan secara profesional, akuntabel, dan tepat sasaran, menjadi jembatan kebaikan antara perusahaan dan masyarakat yang membutuhkan."
     ],
-    "quote": "Saya lewat DRW Foundation sebagai bentuk bahwa perusahaan tidak hanya untuk mengambil keuntungan, tapi hadir sebagai pelayan masyarakat dan mereka yang membutuhkan"
+    "quote": "Bisnis sejati adalah yang mampu memberi arti. DRW Foundation adalah cara kami memberi arti, menjadi pelayan bagi ummat dan jembatan bagi mereka yang membutuhkan."
   },
-  "visi": "Menjadi lembaga sosial terpercaya yang berkontribusi nyata dalam meningkatkan kesejahteraan dan kualitas hidup masyarakat Indonesia melalui program-program berkelanjutan di bidang pendidikan, kesehatan, dan pemberdayaan ekonomi.",
+  "visi": "Menjadi lembaga filantropi korporat terdepan di Indonesia yang dipercaya dalam mengelola dana sosial, menciptakan dampak berkelanjutan, dan menginspirasi sinergi kolaborasi untuk kemanusiaan.",
   "misi": [
-    "Memberikan akses pendidikan berkualitas, khususnya pendidikan Al-Quran dan tahfidz",
-    "Menyediakan layanan kesehatan dan bantuan medis bagi masyarakat",
-    "Membantu pemberdayaan ekonomi masyarakat",
-    "Membangun dan merenovasi fasilitas umum",
-    "Memberikan bantuan cepat kepada korban bencana"
+    "Mengelola dan menyalurkan dana CSR dari DRW Corp dan mitra lainnya dengan prinsip akuntabilitas, transparansi, dan profesionalisme.",
+    "Menciptakan program-program inovatif dan berkelanjutan di bidang pendidikan, kesehatan, dan pemberdayaan ekonomi yang menjawab kebutuhan nyata masyarakat.",
+    "Membangun kemitraan strategis dengan berbagai lembaga sosial untuk memperluas jangkauan dan dampak program.",
+    "Menjadi pionir dalam pemanfaatan teknologi untuk transparansi dan efisiensi penyaluran bantuan.",
+    "Menginspirasi lebih banyak pihak untuk terlibat dalam gerakan kebaikan dan kolaborasi sosial."
   ],
-  "sejarah": "Sebelumnya dikenal dengan nama drwskincarepeduli, kemudian berubah nama menjadi DRW Foundation seiring bertambahnya sumber dana dari berbagai lini bisnis DRW Corp. DRW Foundation mengelola dana CSR unit-unit bisnis DRW Corp tersebut dan dalam pengelolaannya bersinergi dan berkolaborasi dengan banyak lembaga sosial sebagai pelaksana.",
+  "sejarah": "Berawal dari semangat kepedulian dengan nama drwskincarepeduli, kami bertransformasi menjadi DRW Foundation seiring dengan berkembangnya unit bisnis DRW Corp. Transformasi ini menandai komitmen kami untuk menjadi lembaga pengelola CSR yang lebih profesional, terstruktur, dan berdampak luas. Kami bersinergi dengan berbagai lembaga sosial terpercaya untuk memastikan setiap amanah tersampaikan kepada yang berhak.",
   "unitBisnis": [
     {
       "kategori": "Skincare",
@@ -50,20 +50,20 @@
   ],
   "pencapaian": [
     {
-      "angka": "2",
-      "label": "Rumah Quran"
+      "angka": "100+",
+      "label": "Kota Terjangkau"
+    },
+    {
+      "angka": "120K+",
+      "label": "Penerima Manfaat"
+    },
+    {
+      "angka": "50+",
+      "label": "Masjid Dibangun"
     },
     {
       "angka": "500+",
       "label": "Santri Tahfidz"
-    },
-    {
-      "angka": "150+",
-      "label": "Masjid Dibangun"
-    },
-    {
-      "angka": "100K+",
-      "label": "Penerima Manfaat"
     }
   ]
 }
