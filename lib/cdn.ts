@@ -51,6 +51,15 @@ export function injectCDNUrls(content: string): string {
     }
   )
   
+  // Handle /uploads/... paths (uploaded files)
+  result = result.replace(
+    /(['"])(\/uploads\/[^'"]+)(['"])/g,
+    (match, quote1, path, quote2) => {
+      // uploads are served from the same domain, not CDN
+      return `${quote1}${path}${quote2}`
+    }
+  )
+  
   return result
 }
 
