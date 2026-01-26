@@ -24,9 +24,9 @@ export default function HeroVideo() {
             isVideoLoaded ? 'opacity-40' : 'opacity-0'
           }`}
         >
-          {/* Replace with actual video URLs */}
-          <source src="/videos/hero-background.mp4" type="video/mp4" />
-          <source src="/videos/hero-background.webm" type="video/webm" />
+          <source src="/videos/v4.mp4" type="video/mp4" />
+          <source src="/videos/Vidio1rct.mp4" type="video/mp4" />
+          <source src="/videos/VID-20221202-WA0044.mp4" type="video/mp4" />
         </video>
 
         {/* Overlay */}
