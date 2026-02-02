@@ -1,8 +1,10 @@
 import { MetadataRoute } from 'next'
 import { getPostsData } from '@/lib/posts'
+import { getAllPages } from '@/lib/pages'
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const baseUrl = 'https://drwfoundation.com'
+  // Use environment variable or fallback to production domain
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://drwfoundation.com'
   
   // Static pages
   const staticPages = [
@@ -38,7 +40,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     },
   ]
 
-  // Dynamic pages - Posts
+  // Dynamic pages - Posts and Programs
   try {
     const posts = await getPostsData()
     const postPages = posts.map((post) => ({
@@ -48,7 +50,16 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       priority: 0.6,
     }))
 
-    return [...staticPages, ...postPages]
+    // Get all program pages
+    const pages = await getAllPages()
+    const programPages = pages.map((page) => ({
+      url: `${baseUrl}/program/${page.slug}`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.7,
+    }))
+
+    return [...staticPages, ...postPages, ...programPages]
   } catch (error) {
     console.error('Error generating sitemap:', error)
     // Return static pages only if there's an error
