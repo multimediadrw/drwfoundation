@@ -13,9 +13,16 @@ const nextConfig = {
         protocol: 'https',
         hostname: '**.drwfoundation.com',
       },
+      {
+        protocol: 'https',
+        hostname: 'raw.githubusercontent.com',
+      },
+      {
+        protocol: 'https',
+        hostname: '**.githubusercontent.com',
+      },
     ],
   },
-  output: 'standalone',
 }
 
 const withMDX = createMDX({
