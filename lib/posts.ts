@@ -45,82 +45,89 @@ async function markdownToHtml(markdown: string) {
   return injectCDNUrls(htmlContent)
 }
 
-// Fetch posts from GitHub API (always fresh data)
+// Primary: Read from local file system (fast, no rate limit)
+// Fallback: GitHub API (only if local files not available)
 export async function getPostsData(): Promise<PostData[]> {
-  try {
-    // Get list of files from GitHub
-    const { data } = await octokit.repos.getContent({
-      owner,
-      repo,
-      path: 'content/posts',
-      ref: branch
-    })
-
-    if (!Array.isArray(data)) {
-      return []
+  // Try local file system first (always preferred - no rate limit)
+  if (fs.existsSync(postsDirectory)) {
+    const fileNames = fs.readdirSync(postsDirectory)
+    const mdFiles = fileNames.filter(f => f.endsWith('.md') || f.endsWith('.mdx'))
+    
+    if (mdFiles.length > 0) {
+      return getPostsDataFromLocal()
     }
-
-    // Filter markdown files
-    const markdownFiles = data.filter(file => 
-      file.type === 'file' && (file.name.endsWith('.md') || file.name.endsWith('.mdx'))
-    )
-
-    // Fetch content for each file
-    const allPostsData = await Promise.all(
-      markdownFiles.map(async file => {
-        try {
-          const slug = file.name.replace(/\.mdx?$/, '')
-          
-          // Get file content from GitHub
-          const { data: fileData } = await octokit.repos.getContent({
-            owner,
-            repo,
-            path: file.path,
-            ref: branch
-          })
-
-          if ('content' in fileData && fileData.content) {
-            const fileContents = Buffer.from(fileData.content, 'base64').toString('utf-8')
-            const { data, content } = matter(fileContents)
-            const htmlContent = await markdownToHtml(content)
-
-            return {
-              slug,
-              title: data.title || slug,
-              date: data.date || new Date().toISOString(),
-              excerpt: data.excerpt || content.slice(0, 200),
-              content: htmlContent,
-              author: data.author || 'DRW Foundation',
-            } as PostData
-          }
-        } catch (error) {
-          console.error(`Error fetching post ${file.name}:`, error)
-        }
-        return null
-      })
-    )
-
-    // Filter out null values and sort by date
-    const validPosts = allPostsData.filter(post => post !== null) as PostData[]
-    
-    return validPosts.sort((a, b) => {
-      if (a.date < b.date) {
-        return 1
-      } else {
-        return -1
-      }
-    })
-  } catch (error) {
-    console.error('Error fetching posts from GitHub:', error)
-    
-    // Fallback to local file system if GitHub API fails
-    return getPostsDataFromLocal()
   }
+
+  // Fallback: Try GitHub API only if GITHUB_TOKEN is set and local files don't exist
+  if (process.env.GITHUB_TOKEN) {
+    try {
+      const { data } = await octokit.repos.getContent({
+        owner,
+        repo,
+        path: 'content/posts',
+        ref: branch
+      })
+
+      if (!Array.isArray(data)) {
+        return []
+      }
+
+      const markdownFiles = data.filter(file => 
+        file.type === 'file' && (file.name.endsWith('.md') || file.name.endsWith('.mdx'))
+      )
+
+      const allPostsData = await Promise.all(
+        markdownFiles.map(async file => {
+          try {
+            const slug = file.name.replace(/\.mdx?$/, '')
+            
+            const { data: fileData } = await octokit.repos.getContent({
+              owner,
+              repo,
+              path: file.path,
+              ref: branch
+            })
+
+            if ('content' in fileData && fileData.content) {
+              const fileContents = Buffer.from(fileData.content, 'base64').toString('utf-8')
+              const { data, content } = matter(fileContents)
+              const htmlContent = await markdownToHtml(content)
+
+              return {
+                slug,
+                title: data.title || slug,
+                date: data.date || new Date().toISOString(),
+                excerpt: data.excerpt || content.slice(0, 200),
+                content: htmlContent,
+                author: data.author || 'DRW Foundation',
+              } as PostData
+            }
+          } catch (error) {
+            console.error(`Error fetching post ${file.name}:`, error)
+          }
+          return null
+        })
+      )
+
+      const validPosts = allPostsData.filter(post => post !== null) as PostData[]
+      
+      return validPosts.sort((a, b) => {
+        if (a.date < b.date) {
+          return 1
+        } else {
+          return -1
+        }
+      })
+    } catch (error) {
+      console.error('Error fetching posts from GitHub:', error)
+    }
+  }
+
+  return []
 }
 
-// Fallback: Read from local file system
+// Read from local file system
 async function getPostsDataFromLocal(): Promise<PostData[]> {
-  // Check if content directory exists
   if (!fs.existsSync(postsDirectory)) {
     console.warn('Posts directory does not exist yet')
     return []
@@ -158,40 +165,11 @@ async function getPostsDataFromLocal(): Promise<PostData[]> {
 }
 
 export async function getPostBySlug(slug: string): Promise<PostData | null> {
+  // Try local file system first
   try {
-    // Try to fetch from GitHub first
-    const { data } = await octokit.repos.getContent({
-      owner,
-      repo,
-      path: `content/posts/${slug}.md`,
-      ref: branch
-    })
-
-    if ('content' in data && data.content) {
-      const fileContents = Buffer.from(data.content, 'base64').toString('utf-8')
-      const { data: frontmatter, content } = matter(fileContents)
-      const htmlContent = await markdownToHtml(content)
-
-      return {
-        slug,
-        title: frontmatter.title || slug,
-        date: frontmatter.date || new Date().toISOString(),
-        excerpt: frontmatter.excerpt || content.slice(0, 200),
-        content: htmlContent,
-        author: frontmatter.author || 'DRW Foundation',
-      }
-    }
-  } catch (error) {
-    console.error(`Error fetching post ${slug} from GitHub:`, error)
+    const fullPath = path.join(postsDirectory, `${slug}.md`)
     
-    // Fallback to local file system
-    try {
-      const fullPath = path.join(postsDirectory, `${slug}.md`)
-      
-      if (!fs.existsSync(fullPath)) {
-        return null
-      }
-
+    if (fs.existsSync(fullPath)) {
       const fileContents = fs.readFileSync(fullPath, 'utf8')
       const { data, content } = matter(fileContents)
       const htmlContent = await markdownToHtml(content)
@@ -204,9 +182,37 @@ export async function getPostBySlug(slug: string): Promise<PostData | null> {
         content: htmlContent,
         author: data.author || 'DRW Foundation',
       }
-    } catch (localError) {
-      console.error(`Error reading local post ${slug}:`, localError)
-      return null
+    }
+  } catch (localError) {
+    console.error(`Error reading local post ${slug}:`, localError)
+  }
+
+  // Fallback: Try GitHub API only if GITHUB_TOKEN is set
+  if (process.env.GITHUB_TOKEN) {
+    try {
+      const { data } = await octokit.repos.getContent({
+        owner,
+        repo,
+        path: `content/posts/${slug}.md`,
+        ref: branch
+      })
+
+      if ('content' in data && data.content) {
+        const fileContents = Buffer.from(data.content, 'base64').toString('utf-8')
+        const { data: frontmatter, content } = matter(fileContents)
+        const htmlContent = await markdownToHtml(content)
+
+        return {
+          slug,
+          title: frontmatter.title || slug,
+          date: frontmatter.date || new Date().toISOString(),
+          excerpt: frontmatter.excerpt || content.slice(0, 200),
+          content: htmlContent,
+          author: frontmatter.author || 'DRW Foundation',
+        }
+      }
+    } catch (error) {
+      console.error(`Error fetching post ${slug} from GitHub:`, error)
     }
   }
 
@@ -214,37 +220,41 @@ export async function getPostBySlug(slug: string): Promise<PostData | null> {
 }
 
 export async function getAllPostSlugs() {
-  try {
-    // Get from GitHub
-    const { data } = await octokit.repos.getContent({
-      owner,
-      repo,
-      path: 'content/posts',
-      ref: branch
-    })
-
-    if (Array.isArray(data)) {
-      return data
-        .filter(file => file.type === 'file' && (file.name.endsWith('.md') || file.name.endsWith('.mdx')))
-        .map(file => ({
-          params: {
-            slug: file.name.replace(/\.mdx?$/, '')
-          }
-        }))
-    }
-  } catch (error) {
-    console.error('Error fetching post slugs from GitHub:', error)
+  // Try local file system first
+  if (fs.existsSync(postsDirectory)) {
+    const fileNames = fs.readdirSync(postsDirectory)
+    const mdFiles = fileNames.filter(f => f.endsWith('.md') || f.endsWith('.mdx'))
     
-    // Fallback to local
-    if (fs.existsSync(postsDirectory)) {
-      const fileNames = fs.readdirSync(postsDirectory)
-      return fileNames
-        .filter(fileName => fileName.endsWith('.md') || fileName.endsWith('.mdx'))
-        .map(fileName => ({
-          params: {
-            slug: fileName.replace(/\.mdx?$/, '')
-          }
-        }))
+    if (mdFiles.length > 0) {
+      return mdFiles.map(fileName => ({
+        params: {
+          slug: fileName.replace(/\.mdx?$/, '')
+        }
+      }))
+    }
+  }
+
+  // Fallback: GitHub API
+  if (process.env.GITHUB_TOKEN) {
+    try {
+      const { data } = await octokit.repos.getContent({
+        owner,
+        repo,
+        path: 'content/posts',
+        ref: branch
+      })
+
+      if (Array.isArray(data)) {
+        return data
+          .filter(file => file.type === 'file' && (file.name.endsWith('.md') || file.name.endsWith('.mdx')))
+          .map(file => ({
+            params: {
+              slug: file.name.replace(/\.mdx?$/, '')
+            }
+          }))
+      }
+    } catch (error) {
+      console.error('Error fetching post slugs from GitHub:', error)
     }
   }
 
