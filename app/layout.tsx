@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import './globals.css'
 import GoogleAnalytics from '@/components/GoogleAnalytics'
+import { preinit } from 'react-dom'
 
 export const metadata: Metadata = {
   title: 'DRW Foundation - Sinergi & Kolaborasi untuk Umat',
@@ -68,6 +69,30 @@ export default function RootLayout({
     <html lang="id">
       <head>
         {gaId && <GoogleAnalytics gaId={gaId} />}
+        <script dangerouslySetInnerHTML={{ __html: `
+          (function() {
+            function ensureCSS() {
+              var links = document.querySelectorAll('link[data-precedence]');
+              if (links.length === 0) {
+                var styleSheets = document.styleSheets;
+                if (styleSheets.length === 0) {
+                  var allLinks = document.querySelectorAll('link[rel="stylesheet"]');
+                  allLinks.forEach(function(link) {
+                    var newLink = document.createElement('link');
+                    newLink.rel = 'stylesheet';
+                    newLink.href = link.href;
+                    document.head.appendChild(newLink);
+                  });
+                }
+              }
+            }
+            if (document.readyState === 'loading') {
+              document.addEventListener('DOMContentLoaded', ensureCSS);
+            } else {
+              ensureCSS();
+            }
+          })();
+        ` }} />
       </head>
       <body className="antialiased">
         {children}
