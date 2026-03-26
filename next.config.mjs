@@ -13,16 +13,9 @@ const nextConfig = {
         protocol: 'https',
         hostname: '**.drwfoundation.com',
       },
-      {
-        protocol: 'https',
-        hostname: 'cdn.drwskincare.com',
-      },
-      {
-        protocol: 'https',
-        hostname: 'raw.githubusercontent.com',
-      },
     ],
   },
+  output: 'standalone',
 }
 
 const withMDX = createMDX({
